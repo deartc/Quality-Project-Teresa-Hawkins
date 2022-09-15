@@ -1,39 +1,19 @@
 # Code-Louisville-Quality-Project-Teresa-Hawkins
 
 QA Testing Course 1 - Project Requirements
-Project Deadline: Last Friday of the class, by 11:59am (noon)
 
-Please read this document in full. Make sure to ask any questions before the project is due. If there is any confusion please ask a mentor or a member of the Code Louisville staff.
-
-The purpose of the capstone project is to reinforce what you’ve learned and show off your skills. Your projects will be your go-to tool to show off to potential employers and demonstrate your knowledge. Projects should show that you have a good understanding of QA Testing, its methods and implementation. 
-
-This is your project, make something fun and challenging. You are hoping to impress an employer with it!
-What to expect:
-
-Weeks 1-3: Immerse yourself into QA Testing and its methods. Think about the types of programs you have been exposed to. Go over this document with mentors.
-
-Weeks 4-5: As you continue to learn and work through your videos, think of ideas that sound fun and interesting. Think about and practice implementation.
-
-Weeks 6-10: Project should be worked on in this time frame. You should discuss ideas and implementation with your mentors as you move forward.
-
-Week 11: The project “Turn In Form” should have been sent out. Please submit your project ahead of the due date. You are able to keep working till the due date/time. Last Friday of the class; by 11:59am (noon). Project should be tested, and looked over by a mentor. 
-
-Week 12: Testing should be done, tidy up the codebase and finalize your project, make sure you have commits to Github. Project should be submitted. Late projects will not be accepted, failure to meet the project requirements will result in not completing the class.
-Project Requirements Overview:
-Creating tests that demonstrate your knowledge of the QA testing skills you’ve been learning. 
-
-
-REQUIREMENTS:
-The below items are the requirements for your personal project for the QA Testing class. Projects are graded on a pass/fail system, thus every requirement must be met in order for your project to pass. You should discuss your project/plan with mentors regularly to ensure you’re on the right path to passing.
-
-Program staff and mentors will review projects after they are turned in and will determine if your project meets these requirements:
- 
 #1: Test Plan
-Identify an online web application to test. You may choose a “real” website, such as https://www.amazon.com/, https://www.ebay.com, or https://www.yahoo.com/, or you may use a “sample” website such as https://www.demoblaze.com/ or https://demoqa.com/books. Include the name of your chosen website in your submission. 
-Select one feature from this website and pretend that it was newly added to the application. Write a test plan for this new feature that includes at least 10 test cases. Indicate the type of each test case (critical path, regression, non-functional, etc) and include all of the necessary components of each test case (preconditions, steps, expected result, etc). 
-Hint: refer to the 10-minute test plan supplemental reading if you need help deciding what to include.
+
+
+
+
+
+
+
 #2: Manual Test Execution
 Execute the test plan created in #1. Record the results of your tests as if you would be presenting them to the software quality manager for your team. Include at least one bug report in your results. The bug report should contain all necessary details a developer would need to begin work on fixing the defect. If you are unable to identify a legitimate defect in the feature you are testing, you may imagine that one of your test cases failed and proceed from there.
+
+
 #3: Unit Test Creation
 Check out the provided project. The code contains a single Visual Studio Solution which itself contains two projects: CodeLouisvilleUnitTestProject and CodeLouisvilleUnitTestProjectTests. The former contains the definition for two classes, Vehicle and SemiTruck. 
 The Vehicle class has been implemented for you. You will need to add unit tests to it per the instructions below, refactoring where necessary.
@@ -136,14 +116,10 @@ RemovePassengers test: Using a Theory, test the following:
 Create a Car with 5 passengers that gets 21 MPG. Remove 3 passengers from the car. Verify the car now has 2 passengers and gets 20.6 MPG.
 Create a Car with 5 passengers that gets 21 MPG. Remove 5 passengers from the car. Verify the car now has 0 passengers and gets 21 MPG.
 Create a Car with 5 passengers that gets 21 MPG. Remove 25 passengers from the car. Verify the car now has 0 passengers and gets 21 MPG.
-Feel free to add any additional unit tests to the Car class that you deem necessary. It is not necessary to test any private members of the class.
 
-
-
-Before submitting your project, ensure that you have completed all the requirements above. If  done correctly, your project should have:
-At least 4 classes: Vehicle, SemiTruck, CargoItem, Car, and any others you may have needed along the way.
+At least 4 classes:
+Vehicle, SemiTruck, CargoItem, Car, and any others you may have needed along the way.
 At least 3 test classes: VehicleTests, SemiTruckTests, and CarTests.
-Around 40 total unit tests. To pass, at least 30 of your unit tests must be passing and correct, but you should attempt them all in case you make mistakes.
-
+Around 40 total unit tests. 
 
 
