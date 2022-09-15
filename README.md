@@ -3,6 +3,7 @@
 QA Testing Course 1 - Project Requirements
 
 #1: Test Plan
+I completed a test plan on the following website:    I have attached the test plan detailing steps I took.
 
 
 
@@ -11,8 +12,8 @@ QA Testing Course 1 - Project Requirements
 
 
 #2: Manual Test Execution
-Execute the test plan created in #1. Record the results of your tests as if you would be presenting them to the software quality manager for your team. Include at least one bug report in your results. The bug report should contain all necessary details a developer would need to begin work on fixing the defect. If you are unable to identify a legitimate defect in the feature you are testing, you may imagine that one of your test cases failed and proceed from there.
-
+I am presenting the results of my manual test execution.   I have attached the following presentation detailing the manual
+test execution.
 
 #3: Unit Test Creation
 Check out the provided project. The code contains a single Visual Studio Solution which itself contains two projects: CodeLouisvilleUnitTestProject and CodeLouisvilleUnitTestProjectTests. The former contains the definition for two classes, Vehicle and SemiTruck. 
