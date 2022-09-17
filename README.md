@@ -3,7 +3,7 @@
 QA Testing Course 1 - Project Requirements
 
 #1: Test Plan
-I completed a test plan on the following website:    I have attached the test plan detailing steps I took.
+I completed a test plan on the Ebay site.  I have attached the test plan detailing steps I took.
 
 
 
