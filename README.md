@@ -2,8 +2,15 @@
 
 QA Testing Course 1 - Project Requirements
 
+To run the project do the following: Clone github.com/deartc/Quality-Project-Teresa-Hawkins
+
+2	PowerBi  can be accessed by clicking on the following link. The three charts can then be accessed by clicking on the tabs at the top.
+	Category 1: Utilize External Data:
+	Excel data files A. Data file cleaned B. Statistical analysis of data: Mean, Median, Mode C. Summary of relevant data files listed and analyzed D. Excel data lotted using matplotli.
+	Category 2: Data Display
+
 #1: Test Plan
-I completed a test plan on the Ebay site.  I have attached the test plan detailing steps I took.
+I completed a test plan on the Verizon site.  I have attached the test plan detailing steps I took.
 
 
 
@@ -122,5 +129,22 @@ At least 4 classes:
 Vehicle, SemiTruck, CargoItem, Car, and any others you may have needed along the way.
 At least 3 test classes: VehicleTests, SemiTruckTests, and CarTests.
 Around 40 total unit tests. 
+
+
+
+1	To run the project do the following: Clone github.com/deartc/Quality-Project-Teresa-Hawkins
+
+2	PowerBi  can be accessed by clicking on the following link. The three charts can then be accessed by clicking on the tabs at the top.
+	Category 1: Utilize External Data:
+	Excel data files A. Data file cleaned B. Statistical analysis of data: Mean, Median, Mode C. Summary of relevant data files listed and analyzed D. Excel data lotted using matplotli.
+	Category 2: Data Display
+
+9	Status of project and future steps:
+10	Defining the question: What makes these customers more likely to not renew their service? Identify the patterns and then recommend a marketing campaign.
+11	Collecting the data: The Verizon data was found and dataset included in Github repository.
+12	Cleaning the data: The data was cleaned (more cleaning may be necesssary).
+13	Analyzing the data: The data was initially analyzed (more analysis may be necessary).
+14	Sharing your results: Initial results were displayed in Tableau and Matplot.
+15	Future steps: 1. Refine data. Possibly do more cleaning and analysis using SQL. 2. Use machine learning. Possibly include AWS SageMaker to determine train/predict models.
 
 
