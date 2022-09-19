@@ -17,15 +17,14 @@ To run the project do the following: Clone github.com/deartc/Quality-Project-Ter
 #1: Test Plan
 I completed a test plan on the Verizon site.  I have attached the test plan detailing steps I took.
 
-
+https://1drv.ms/w/s!AuGFsyf0-Lz61BvJcCyLmPYPSi4e?e=DF9Ady
 
 
 
 
 
 #2: Manual Test Execution
-I am presenting the results of my manual test execution.   I have attached the following presentation detailing the manual
-test execution.
+I am presenting the res
 
 
 
