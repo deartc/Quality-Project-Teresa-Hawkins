@@ -10,7 +10,7 @@ highlight the Verizon churn rate. PowerBi  can be accessed by clicking on the fo
 		
 
 #1: Test Plan
-I completed a test plan on the Verizon site.  I have attached the test plan detailing steps I took.
+I completed a test plan on the Verizon site.  I used Excel and Sway  detail steps I took.
 https://sway.office.com/p1w0pSuCXxGGIf7w?ref=Link
 
 
