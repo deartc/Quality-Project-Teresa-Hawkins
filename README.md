@@ -8,6 +8,11 @@ To run the project do the following: Clone github.com/deartc/Quality-Project-Ter
 	Category 1: Utilize External Data:
 	Excel data files A. Data file cleaned B. Statistical analysis of data: Mean, Median, Mode C. Summary of relevant data files listed and analyzed D. Excel data lotted using matplotli.
 	Category 2: Data Display
+	
+	
+	
+	
+	
 
 #1: Test Plan
 I completed a test plan on the Verizon site.  I have attached the test plan detailing steps I took.
@@ -21,6 +26,12 @@ I completed a test plan on the Verizon site.  I have attached the test plan deta
 #2: Manual Test Execution
 I am presenting the results of my manual test execution.   I have attached the following presentation detailing the manual
 test execution.
+
+
+
+
+ Status of project and future steps:  
+ Defining the question: What makes these customers more likely to not renew their service? Identify the patterns and then recommend a marketing campaign. 11 Collecting the data: The Verizon data was found and dataset included in Github repository. 12 Cleaning the data: The data was cleaned (more cleaning may be necesssary). 13 Analyzing the data: The data was initially analyzed (more analysis may be necessary). 14 Sharing your results: Initial results were displayed in Power Bi 1. Refine data. Possibly do more cleaning and analysis using SQL. 2. Use machine learning. Possibly include AWS SageMaker to determine train/predict models.
 
 #3: Unit Test Creation
 Check out the provided project. The code contains a single Visual Studio Solution which itself contains two projects: CodeLouisvilleUnitTestProject and CodeLouisvilleUnitTestProjectTests. The former contains the definition for two classes, Vehicle and SemiTruck. 
