@@ -2,7 +2,9 @@
 
 QA Testing Course 1 - Project Requirements
 
-To run the project do the following: Clone github.com/deartc/Quality-Project-Teresa-Hawkins.   I ran an analysis of the Verizon site.  I used Power Bi to visually 
+To run the project do the following: Clone github.com/deartc/Quality-Project-Teresa-Hawkins. I used the following Microsoft Office Suite Products: Word, PowerPoint, and  Sway.     
+
+I ran an analysis of the Verizon site.  I used Power Bi to visually 
 highlight the Verizon churn rate. PowerBi  can be accessed by clicking on the following link. The three charts can then be accessed by clicking on the tabs at the top.
 	Category 1: Utilize External Data:
 	Excel data files A. Data file cleaned B. Statistical analysis of data: Mean, Median, Mode C. Summary of relevant data files listed and analyzed D. Excel data lotted using matplotli.
