@@ -2,7 +2,7 @@
 
 QA Testing Course 1 - Project Requirements
 
-To run the project do the following: Clone github.com/deartc/Quality-Project-Teresa-Hawkins
+To run the project do the following: Clone github.com/deartc/Quality-Project-Teresa-Hawkins.  The following Microsoft Office Suite programs were used:  Word, Powerpoint, Sway, Vizio, and Power Bi.   
 
 2	PowerBi  can be accessed by clicking on the following link. The three charts can then be accessed by clicking on the tabs at the top.
 	Category 1: Utilize External Data:
@@ -10,7 +10,7 @@ To run the project do the following: Clone github.com/deartc/Quality-Project-Ter
 	Category 2: Data Display
 	
 	
-	
+[VerizonChurnReport.pdf](https://github.com/deartc/Quality-Project-Teresa-Hawkins/files/9611038/VerizonChurnReport.pdf)	
 	
 	
 
