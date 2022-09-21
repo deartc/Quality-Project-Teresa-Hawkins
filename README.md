@@ -19,7 +19,7 @@ https://sway.office.com/zBIxDmNBKuwC0Xrn
 I am presenting the results of my manual test execution.   I have attached the following presentation detailing the manual
 test execution.
 
-https://sway.office.com/LT6UTiOlBFiSN9I8?ref=Link
+https://sway.office.com/aNpFPcqKEkEcVIoj?authoringPlay=true&publish
 
 I used power bi to visually display the Verizon churn  rate and how focusing on this Verizon webpage test might affect this churn rate.  The power bi link is :
 
