@@ -23,8 +23,7 @@ test execution.
 
 "https://sway.office.com/s/lrLGwA1XR3BJJXUC/embed"
 
-
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTUcAVeQrxfdGvbCa0Tpe6l1p2EQnYat9kLKK8FBAByCFbyU4ocE_V9hY3Qa9tRN8JAKjcPgLqy95tl/pub?embedded=true"></iframe>
+I have included a bug report
 
 
 https://docs.google.com/document/d/1lz6yAHhdLGvTMFdzE5x1BHlp_YM46QLf-5CqcqOLzjI/edit?usp=sharing
