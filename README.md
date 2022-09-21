@@ -24,6 +24,12 @@ test execution.
 "https://sway.office.com/s/lrLGwA1XR3BJJXUC/embed"
 
 
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTUcAVeQrxfdGvbCa0Tpe6l1p2EQnYat9kLKK8FBAByCFbyU4ocE_V9hY3Qa9tRN8JAKjcPgLqy95tl/pub?embedded=true"></iframe>
+
+
+https://docs.google.com/document/d/1lz6yAHhdLGvTMFdzE5x1BHlp_YM46QLf-5CqcqOLzjI/edit?usp=sharing
+
+
 
 I used power bi to visually display the Verizon churn  rate and how focusing on this Verizon webpage test might affect this churn rate.  The power bi link is :
 
