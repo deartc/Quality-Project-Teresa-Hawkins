@@ -28,6 +28,10 @@ https://sway.office.com/LT6UTiOlBFiSN9I8?ref=Link
 I am presenting the results of my manual test execution.   I have attached the following presentation detailing the manual
 test execution.
 
+
+
+<iframe width="760px" height="500px" src="https://sway.office.com/s/2hA0EtA3N1sF52bu/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
+
 [VerizonChurnReport.pdf](https://github.com/deartc/Quality-Project-Teresa-Hawkins/files/9611038/VerizonChurnReport.pdf)
 
 
