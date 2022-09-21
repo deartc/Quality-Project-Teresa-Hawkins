@@ -20,7 +20,7 @@ I am presenting the results of my manual test execution.   I have attached the f
 test execution.
 
 
-https://sway.office.com/lrLGwA1XR3BJJXUC?ref=Link
+
 "https://sway.office.com/s/lrLGwA1XR3BJJXUC/embed"
 
 
