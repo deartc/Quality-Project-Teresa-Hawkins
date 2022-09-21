@@ -5,7 +5,7 @@ QA Testing Course 1 - Project Requirements
 To run the project do the following: Clone github.com/deartc/Quality-Project-Teresa-Hawkins.  The following Microsoft Office Suite programs were used:  Word,  Sway, Vizio, and Power Bi.
 
 Purpose: 
-Verizon churn rate is one of the lowest in their market segment.  One of the main reasons is their websites try to engage their customers. This project examines the website  to see if it appeals to seniors or has flaws that might make this sector less likely to not renew their service.   A website  test plan is executed and uses Sway.   A Sway presention  also details a Power Bi visual analysis of churn rates and examines  the quality assurance of the website in relation to churn rate retention.   
+Verizon churn rate is one of the lowest in their market segment.  One of the main reasons is their websites try to engage their customers. This project examines the website  to see if it appeals to seniors or has flaws that might make this sector less likely to not renew their service.   A website  test plan is executed and  a bug report was filled out (hypothetical bug)  I used Sway for the presention and test plan.  I used Power Bi to  visually analyze Verizon churn rates.   
 
 
 #1: Test Plan
