@@ -19,7 +19,12 @@ https://sway.office.com/zBIxDmNBKuwC0Xrn
 I am presenting the results of my manual test execution.   I have attached the following presentation detailing the manual
 test execution.
 
-https://sway.office.com/aNpFPcqKEkEcVIoj?authoringPlay=true&publish
+
+https://sway.office.com/lrLGwA1XR3BJJXUC?ref=Link
+
+<iframe width="760px" height="500px" src="https://sway.office.com/s/lrLGwA1XR3BJJXUC/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
+
+
 
 I used power bi to visually display the Verizon churn  rate and how focusing on this Verizon webpage test might affect this churn rate.  The power bi link is :
 
