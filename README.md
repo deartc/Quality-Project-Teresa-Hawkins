@@ -4,7 +4,20 @@ QA Testing Course 1 - Project Requirements
 
 To run the project do the following: Clone github.com/deartc/Quality-Project-Teresa-Hawkins.  The following Microsoft Office Suite programs were used:  Word, Powerpoint, Sway, Vizio, and Power Bi.   
 
-2	PowerBi  can be accessed by clicking on the following link. The three charts can then be accessed by clicking on the tabs at the top.
+
+#1: Test Plan
+I completed a test plan on the Verizon site.  I have attached the test plan detailing steps I took.
+
+
+	
+
+#1: Test Plan
+I completed a test plan on the Verizon site.  I have attached the test plan detailing steps I took.
+
+https://sway.office.com/LT6UTiOlBFiSN9I8?ref=Link
+
+
+2\	PowerBi  can be accessed by clicking on the following link. The three charts can then be accessed by clicking on the tabs at the top.
 	Category 1: Utilize External Data:
 	Excel data files A. Data file cleaned B. Statistical analysis of data: Mean, Median, Mode C. Summary of relevant data files listed and analyzed D. Excel data lotted using matplotli.
 	Category 2: Data Display
@@ -16,6 +29,8 @@ To run the project do the following: Clone github.com/deartc/Quality-Project-Ter
 
 #1: Test Plan
 I completed a test plan on the Verizon site.  I have attached the test plan detailing steps I took.
+
+<iframe width="760px" height="500px" src="https://sway.office.com/s/2hA0EtA3N1sF52bu/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
 
 https://sway.office.com/LT6UTiOlBFiSN9I8?ref=Link
 
