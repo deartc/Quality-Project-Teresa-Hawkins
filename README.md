@@ -17,6 +17,8 @@ To run the project do the following: Clone github.com/deartc/Quality-Project-Ter
 #1: Test Plan
 I completed a test plan on the Verizon site.  I have attached the test plan detailing steps I took.
 
+https://sway.office.com/LT6UTiOlBFiSN9I8?ref=Link
+
 
 
 
