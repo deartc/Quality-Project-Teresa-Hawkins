@@ -21,7 +21,7 @@ test execution.
 
 
 https://sway.office.com/lrLGwA1XR3BJJXUC?ref=Link
-"https://sway.office.com/s/lrLGwA1XR3BJJXUC/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="
+"https://sway.office.com/s/lrLGwA1XR3BJJXUC/embed"
 
 
 
