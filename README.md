@@ -2,10 +2,10 @@
 
 QA Testing Course 1 - Project Requirements
 
-To run the project do the following: Clone github.com/deartc/Quality-Project-Teresa-Hawkins.  The following Microsoft Office Suite programs were used:  Word,  Sway, Vizio, and Power Bi.
+To run the project do the following: Clone github.com/deartc/Quality-Project-Teresa-Hawkins. (Any other instructions I need to include goes here). The following Microsoft Office Suite programs were used:  Word,  Sway, Vizio, and Power Bi, and Visual Studio.  The project was done in C#.   The extensions used were C# and Net.  The NuGets used were xunit and others.    
 
 Purpose: 
-Verizon churn rate is one of the lowest in their market segment.  One of the main reasons is their websites try to engage their customers. This project examines the website  to see if it appeals to seniors or has flaws that might make this sector less likely to not renew their service.   A website  test plan is executed and  a bug report was filled out (hypothetical bug)  I used Sway for the presention and test plan.  I used Power Bi to  visually analyze Verizon churn rates.   
+Verizon churn rate is one of the best in their market segment.  One of the main reasons is their websites try to engage their customers. This project examines the website  to see if it appeals to seniors or has flaws that might make this sector less likely to not renew their service.   A website  test plan is executed and  a bug report was filled out (hypothetical bug)  I used Sway for the presention and test plan.  I used Power Bi to  visually analyze Verizon churn rates.   
 
 
 #1: Test Plan
@@ -30,7 +30,7 @@ https://docs.google.com/document/d/1lz6yAHhdLGvTMFdzE5x1BHlp_YM46QLf-5CqcqOLzjI/
 
 
 
-I used power bi to visually display the Verizon churn  rate and how focusing on this Verizon webpage test might affect this churn rate.  The power bi link is :
+I used Power Bi to visually display the Verizon churn  rate and how focusing on this Verizon webpage test might affect this churn rate.  The power bi pdf is :
 
 
 [VerizonChurnReport.pdf](https://github.com/deartc/Quality-Project-Teresa-Hawkins/files/9611038/VerizonChurnReport.pdf)
