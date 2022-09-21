@@ -33,6 +33,6 @@ I used power bi to visually display the Verizon churn  rate and how focusing on 
 I pojects requires I do the following:
 1. add unit tests to the Vehicle class, refactoring where necessary.
 2. On the SemiTruck class, I will implement all methods therein and write unit tests 
-3. Add 3rd class, Car, implement it, and add unit tests for it.
+3. Add 3rd class, Car, implement it, and add unit tests for it. the first steps of the code are included here: https://github.com/deartc/CarSection.git
 
 
