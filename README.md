@@ -1,5 +1,202 @@
 # Code-Louisville-Quality-Project-Teresa-Hawkins
 
+ 
+ 
+Test Plan  For Verizon 
+  
+
+ 
+ 
+ 
+ 
+1      INTRODUCTION........................................................................................... 3
+2      BUSINESS BACKGROUND......................................................................... 3
+3      TEST OBJECTIVES...................................................................................... 3
+4      SCOPE.............................................................................................................. 3
+5      TEST TYPES IDENTIFIED.......................................................................... 3
+6      PROBLEMS PERCEIVED............................................................................ 3
+7      ARCHITECTURE.......................................................................................... 3
+8      ENVIRONMENT............................................................................................ 3
+9      ASSUMPTIONS.............................................................................................. 3
+10     FUNCTIONALITY......................................................................................... 3
+11     SECURITY...................................................................................................... 4
+12     PERFORMANCE............................................................................................ 4
+13     USABILITY..................................................................................................... 5
+14     TEST TEAM ORGANIZATION................................................................... 6
+15     SCHEDULE..................................................................................................... 6
+16     DEFECTS CLASSIFICATION MECHANISM.......................................... 6
+17     CONFIGURATION MANAGEMENT......................................................... 6
+18     RELEASE CRITERIA................................................................................... 6
+ 
+ 
+ 
+ 
+ 
+ 
+Test Plan
+ 
+1	Introduction
+Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. This public source data set has recorded information about customers at the time of their contract renewal. This Verizon project has several objectives: The first objective is focusing first on customers that use Verizon website for their Internet service communication and what makes these customers more likely to not renew their service. I will analyze that with Power Bi.  I will also analyze a feature on the website for problems.  I will also point out if these problems might specifically affect  the senior sector. 
+
+
+ 
+2	Business Background
+Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. This public source data set has recorded information about customers at the time of their contract renewal. The Verizon website has been praised as one of the best for interaction with the customer.  They promote this interaction by frequent sales and free special event tickets.
+
+ 
+3	Test Objectives
+4	#1: Test Plan I completed a test plan on the Verizon site. I have attached the excel test plan detailing steps I took.
+5	#2: Manual Test Execution I am presenting the results of my manual test execution. I have attached the following presentation detailing the manual test execution.
+
+4       Scope 
+ 
+Inclusions  The testing primarily dealt with the checkout process
+ 
+Exclusions   The testing did not 
+
+The analysis also looked at one specific feature on the website.  
+ 
+5 Test Types
+ 
+6       Problems Perceived
+ 
+7       Architecture
+ 
+8       Environment
+ 
+9       Assumptions
+ 
+10  Functionality
+Constraints and Resolutions
+ 
+Parameter	Customer Constraints	Infosys Limitations
+Constraint 1	 	 
+Constraint 2	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 
+Risk Identified & Mitigation Planned
+ 
+Test Strategy
+ 
+Automation Plans
+ 
+Deliverables
+ 
+11  Security 
+Constraints and Resolutions
+ 
+Parameter	Customer Constraints	Infosys Limitations
+Constraint 1	 	 
+Constraint 2	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 
+Risk Identified & Mitigation Planned
+ 
+Test Strategy
+ 
+Automation Plans
+ 
+Deliverables
+ 
+12  Performance 
+Constraints and Resolutions
+ 
+Parameter	Customer Constraints	Infosys Limitations
+Constraint 1	 	 
+Constraint 2	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 
+Risk Identified & Mitigation Planned
+ 
+Test Strategy
+ 
+Automation Plans
+ 
+Deliverables
+ 
+13  Usability
+ 
+Constraints and Resolutions
+ 
+Parameter	Customer Constraints	Infosys Limitations
+Constraint 1	 	 
+Constraint 2	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 
+Risk Identified & Mitigation Planned
+ 
+Test Strategy
+ 
+Automation Plans
+ 
+Deliverables
+ 
+Compatibility Constraints and Resolutions
+ 
+Parameter	Customer Constraints	Infosys Limitations
+Constraint 1	 	 
+Constraint 2	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 
+Risk Identified & Mitigation Planned
+ 
+Test Strategy
+ 
+Automation Plans
+ 
+Deliverables
+ 
+14  Test Team Organization
+ 
+15  Schedule
+ 
+16  Defects Classification Mechanism
+ 
+Type of Defects 	Functionality 	Performance 	Security 	Usability	Compatibility 
+Critical	 	 	 	 	 
+Major	 	 	 	 	 
+Minor	 	 	 	 	 
+Cosmetics	 	 	 	 	 
+ 
+Defects Logging and Status Changing  Mechanism
+ 
+Turn Around Time for defect fixes
+ 
+17  Configuration Management 
+ 
+18  Release Criteria
+
+
 QA Testing Course 1 - Project Requirements
 
 To run the project do the following: Clone github.com/deartc/Quality-Project-Teresa-Hawkins. (Any other instructions I need to include goes here). The following Microsoft Office Suite programs were used:  Word,  Sway, Vizio, and Power Bi, and Visual Studio.  The project was done in C#.   The extensions used were C# and Net.  The NuGets used were xunit and others.    
