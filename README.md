@@ -39,6 +39,9 @@ I used Power Bi to visually display the Verizon churn  rate and how focusing on 
  
 
 #3: Unit Test Creation:
+- Project Requirements
+
+To run the project do the following: Clone github.com/deartc/Quality-Project-Teresa-Hawkins. (Any other instructions I need to include goes here). The following Microsoft Office Suite programs were used:  Word,  Sway, Vizio, and Power Bi, and Visual Studio.  The project was done in C#.   The extensions used were C# and Net.  The NuGets used were xunit and others.    
 1. On the Vehicle class, add unit tests  and refactor where necessary.
 2. On the SemiTruck class, I will implement all methods and write unit tests 
 3. Add 3rd class, Car, implement it, and add unit tests for it. the first steps of the code are included here: https://github.com/deartc/CarSection.git
