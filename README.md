@@ -204,6 +204,27 @@ I used Power Bi to visually display the Verizon churn  rate and how focusing on 
 
 [VerizonChurnReport.pdf](https://github.com/deartc/Quality-Project-Teresa-Hawkins/files/9611038/VerizonChurnReport.pdf)
 
+1.	 Black Box Testing - Form Input and Validation I
+  Verizon site checked for data input validity.  The allowed values in each field ● What happens when there are invalid inputs 
+
+2.	HTML/CSS Validation 
+Verizon was validated by entering its URL and checked by the HTML Validator extension for Chrome and Firefox. 
+3. Cookie Testing   Verizon was tested with cookies enabled and cookies disabled to ensure functionality.   Geekflare was used for cookies’  security issues.
+
+ 4.  Link Testing To test for Verizon broken links, like Broken Link Checker to see if there are broken links. Several key links were also tested to ensure goes to the proper page 
+
+5.Website Security- Verizon’s SSL/HTTPS connection was tested to make sure it's working properly ● CAPTCHA were checked  for proper functioning.   Invalid username or password were tested.  
+6.Mobile Responsiveness Verizon site was tested using Google's Mobile-Friendly Test. 
+7.  Accessibility Verizon  was tested against the Web Content Accessibility Guidelines (WCAG).   W3C maintains a list of web accessibility evaluation tools that you can use to help you test your site
+8  Functionality Testing  Verizon functionality testing was performed The following were tested : drop-downs, buttons  and process flow .
+9.  Payment Gateways If you have an e-commerce store or other website that accepts any type of online payment, it's important to test payment gateways to make sure they're working. Most payment processors include some type of "test mode" that lets you perform transactions using dummy data.
+10. UI Testing. UI testing on the Verizon site included checking  design consistency, screen resolutions and browsers.
+ 
+ 
+ 
+ 
+ 
+ 
 
  
 
