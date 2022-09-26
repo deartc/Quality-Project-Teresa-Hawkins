@@ -12,10 +12,8 @@ To run the project do the following: Clone github.com/deartc/Quality-Project-Ter
 Test Plan
  
 1	Introduction
-Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. For this project, I have analyzed the checkout at the Verizon   I have completed the following: #1: Test Plan - I completed a test plan on the Verizon site. I have attached the test plan detailing steps I took. #2: Manual Test Execution I am presenting the results of my manual test execution. I have attached the following presentation detailing the manual test execution.
-Purpose: 
-Verizon churn rate is one of the best in their market segment.  One of the main reasons is their websites try to engage their customers. This project examines the website  to see if it appeals to seniors or has flaws that might make this sector less likely to not renew their service.   A website  test plan is executed and  a bug report was filled out (hypothetical bug)  I used Sway for the presention and test plan.  I used Power Bi to  visually analyze Verizon churn rates.   
-
+Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. One of the main reasons is the website tries to engage customers.For this project, I have analyzed the checkout at the Verizon   I have completed the following: #1: Test Plan - I completed a test plan on the Verizon site. I have attached the test plan detailing steps I took. #2: Manual Test Execution I am presenting the results of my manual test execution. I have attached the following presentation detailing the manual test execution.
+ 
 
 #1: Test Plan
 I completed a test plan on the Verizon site.  I have attached the test plan detailing steps I took.
@@ -67,7 +65,9 @@ Check cookies and session time for application
 7.  Accessibility on the  Verizon  sitr was tested against the Web Content Accessibility Guidelines (WCAG).   W3C maintains a list of web accessibility evaluation tools that you can use to help you test your site.
   
 8  Functionality Testing.  Verizon functionality testing was performed The following were tested : drop-downs, buttons  and process flow .
-9.  Payment Gateways    Payment gateways on Verizon wwre tested. to make sure they're working. 
+
+9.  Payment Gateways    Payment gateways on Verizon wwre tested. to make sure they're working.
+
 10. UI Testing. UI testing on the Verizon site included checking  design consistency, screen resolutions and browsers.
  
    Defects Classification Mechanism
