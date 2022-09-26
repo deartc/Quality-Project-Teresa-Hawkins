@@ -14,7 +14,7 @@ Test Plan
 1	Introduction
 
 
-Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. One of the main reasons is the website tries to engage customers. For this project, I have analyzed the checkout at the Verizon   I have completed the following: #1: Test Plan - I completed a test plan on the Verizon site. I have attached the test plan detailing steps I took. #2: Manual Test Execution I am presenting the results of my manual test execution. I have attached the following presentation detailing the manual test execution.
+Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. One of the main reasons is the website tries to engage customers. For this project, I have analyzed the checkout at the Verizon   I have completed the following: #1: Test Plan - I completed a test plan on the Verizon site. I have attached the test plan detailing steps I took. #2: Manual Test Execution I am presenting the results of my manual test execution. I have attached the following presentation detailing the manual test execution.I am also attaching a bug report.
  
 
 #1: Test Plan
