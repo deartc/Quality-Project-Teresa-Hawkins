@@ -46,29 +46,59 @@ Maintenance
 Non-functional testing should increase usability, efficiency, maintainability, and portability of the product.  Non functioning 
 1.	 Black Box Testing - Form Input and Validation 
   Verizon site  was checked for data input validity and what happens when there are invalid inputs 
+  preconditions- 
+  steps-
+  expected results-
 
 2.	HTML/CSS Validation 
 Verizon was validated by entering its URL and checked by the HTML Validator extension for Chrome. 
+ preconditions- 
+  steps-
+  expected results-
 
-3. Cookie Testing   Verizon was tested with cookies enabled and cookies disabled to ensure functionality.   Geekflare was used for cookies’  security issues.
+3. Cookie Testing   Verizon was tested with cookies enabled and cookies disabled to ensure functionality.   Geekflare was used for cookies’  security issues
+ preconditions- 
+  steps-
+  expected results-
 
  4.  Link Testing- To test for Verizon broken links, Broken Link Checker was used to see if there were broken links. Several key links were also tested to ensure goes to the proper page 
+  preconditions- 
+  steps-
+  expected results-
 
-5.Website Security- Verizon’s SSL/HTTPS connection was tested to make sure it's working properly.  TheCAPTCHA were checked  for proper functioning.   Invalid username or password were tested.  Sample Test scenarios to give you a glimpse of security test cases –
+5.Website Security- Verizon’s SSL/HTTPS connection was tested to make sure it's working properly.  
+ preconditions- 
+  steps-
+  expected results-TheCAPTCHA were checked  for proper functioning.   Invalid username or password were tested.  Sample Test scenarios to give you a glimpse of security test cases.
 
 A password should be in encrypted format
 Application or System should not allow invalid users
 Check cookies and session time for application
 
 6.Mobile Responsiveness Verizon site was tested using Google's Mobile-Friendly Test. 
+ preconditions- 
+  steps-
+  expected results-
 
 7.  Accessibility on the  Verizon  sitr was tested against the Web Content Accessibility Guidelines (WCAG).   W3C maintains a list of web accessibility evaluation tools that you can use to help you test your site.
+   preconditions- 
+  steps-
+  expected results-
   
 8  Functionality Testing.  Verizon functionality testing was performed The following were tested : drop-downs, buttons  and process flow .
+ preconditions- 
+  steps-
+  expected results-
 
 9.  Payment Gateways    Payment gateways on Verizon wwre tested. to make sure they're working.
+preconditions- 
+  steps-
+  expected results-
 
-10. UI Testing. UI testing on the Verizon site included checking  design consistency, screen resolutions and browsers.
+10. UI Testing. UI testing on the Verizon site included checking  design consistency, screen resolutions and browsers
+ preconditions- 
+  steps-
+  expected results-
  
    Defects Classification Mechanism
  
