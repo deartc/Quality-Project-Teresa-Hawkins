@@ -12,7 +12,9 @@ To run the project do the following: Clone github.com/deartc/Quality-Project-Ter
 Test Plan
  
 1	Introduction
-Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. One of the main reasons is the website tries to engage customers.For this project, I have analyzed the checkout at the Verizon   I have completed the following: #1: Test Plan - I completed a test plan on the Verizon site. I have attached the test plan detailing steps I took. #2: Manual Test Execution I am presenting the results of my manual test execution. I have attached the following presentation detailing the manual test execution.
+
+
+Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. One of the main reasons is the website tries to engage customers. For this project, I have analyzed the checkout at the Verizon   I have completed the following: #1: Test Plan - I completed a test plan on the Verizon site. I have attached the test plan detailing steps I took. #2: Manual Test Execution I am presenting the results of my manual test execution. I have attached the following presentation detailing the manual test execution.
  
 
 #1: Test Plan
@@ -34,9 +36,7 @@ Inclusions  The testing primarily dealt with the checkout process
  
 Exclusions   The testing did not 
 
-The analysis also looked at one specific feature on the website.  
- 
- 
+   
 In general, there are three testing types
 
 Functional
@@ -80,10 +80,9 @@ Cosmetics
  
 
 
- Unit Test Creation:
-- Project Requirements
+ Unit Test/Coding Requirement of Project:
 
-To run the project do the following: Clone github.com/deartc/Quality-Project-Teresa-Hawkins. (Any other instructions I need to include goes here). The following Microsoft Office Suite programs were used:  Word,  Sway, Vizio, and Power Bi, and Visual Studio.  The project was done in C#.   The extensions used were C# and Net.  The NuGets used were xunit and others.    
+  
 1. On the Vehicle class, add unit tests  and refactor where necessary.
 2. On the SemiTruck class, I will implement all methods and write unit tests 
 3. Add 3rd class, Car, implement it, and add unit tests for it. the first steps of the code are included here: https://github.com/deartc/CarSection.git
