@@ -204,6 +204,15 @@ I used Power Bi to visually display the Verizon churn  rate and how focusing on 
 
 [VerizonChurnReport.pdf](https://github.com/deartc/Quality-Project-Teresa-Hawkins/files/9611038/VerizonChurnReport.pdf)
 
+
+
+In general, there are three testing types
+
+Functional
+Non – Functional
+Maintenance
+
+Non-functional testing should increase usability, efficiency, maintainability, and portability of the product.  Non functioning 
 1.	 Black Box Testing - Form Input and Validation 
   Verizon site  was checked for data input validity and what happens when there are invalid inputs 
 
@@ -213,14 +222,18 @@ Verizon was validated by entering its URL and checked by the HTML Validator exte
 
  4.  Link Testing- To test for Verizon broken links, Broken Link Checker was used to see if there were broken links. Several key links were also tested to ensure goes to the proper page 
 
-5.Website Security- Verizon’s SSL/HTTPS connection was tested to make sure it's working properly.  TheCAPTCHA were checked  for proper functioning.   Invalid username or password were tested.  
+5.Website Security- Verizon’s SSL/HTTPS connection was tested to make sure it's working properly.  TheCAPTCHA were checked  for proper functioning.   Invalid username or password were tested.  Sample Test scenarios to give you a glimpse of security test cases –
+
+A password should be in encrypted format
+Application or System should not allow invalid users
+Check cookies and session time for application
 
 6.Mobile Responsiveness Verizon site was tested using Google's Mobile-Friendly Test. 
 
 7.  Accessibility on the  Verizon  sitr was tested against the Web Content Accessibility Guidelines (WCAG).   W3C maintains a list of web accessibility evaluation tools that you can use to help you test your site.
   
 8  Functionality Testing.  Verizon functionality testing was performed The following were tested : drop-downs, buttons  and process flow .
-9.  Payment Gateways   Payment gateways on Verizon wwre tested. to make sure they're working. 
+9.  Payment Gateways    Payment gateways on Verizon wwre tested. to make sure they're working. 
 10. UI Testing. UI testing on the Verizon site included checking  design consistency, screen resolutions and browsers.
  
  
