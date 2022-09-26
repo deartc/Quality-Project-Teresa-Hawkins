@@ -32,12 +32,12 @@ https://docs.google.com/document/d/1lz6yAHhdLGvTMFdzE5x1BHlp_YM46QLf-5CqcqOLzjI/
 
  Scope 
  
-Inclusions  The testing primarily dealt with the checkout process
+Inclusions  The testing primarily dealt with the checkout process   I identified ten tests I peformed on the websites which falls into one of these major categories: critical path, regression, non-functional.   l  included all of the necessary components of each test case (preconditions, steps,  and expected resuls.
  
-Exclusions   The testing did not 
+Exclusions   The testing was restricted  to this major feature and I did not include more that ten tests, although other tests could have been performed. 
 
    
-In general, there are three testing types
+
 
 Functional
 Non – Functional
