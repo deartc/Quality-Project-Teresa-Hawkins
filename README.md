@@ -9,88 +9,24 @@ To run the project do the following: Clone github.com/deartc/Quality-Project-Ter
  Assignment 1  -Test Plan  For Verizon 
   
  
-Test Plan
- 
-1	Introduction
+
+
+#1: Test Plan
+
+Introduction
 
 
 Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. One of the main reasons is the website tries to engage customers. For this project, I have analyzed the checkout at the Verizon   I have completed the following: #1: Test Plan - I completed a test plan on the Verizon site. I have attached the test plan detailing steps I took. #2: Manual Test Execution I am presenting the results of my manual test execution. I have attached the following presentation detailing the manual test execution. I am also attaching a bug report.
  
 
-#1: Test Plan
-I completed a test plan on the Verizon site.  I have attached the test plan detailing steps I took.
 
-https://sway.office.com/zBIxDmNBKuwC0Xrn
-	
-
-	
-I have included a hypothetical  bug report  in Microsoft Sway and in  text format
-
-BUG REPORT FORM    https://sway.office.com/iwzfKDyrqIs2oDxY?ref=Link 
-
-BUG REPORT FORM
-
-SUBMITTED BY	DATE
- Teresa Hawkins	 9/27/22
-			
-FILE ATTACHMENT(S)
-     Hypothetical	 
-			
-REPRODUCIBILITY   10 out of 10 times	
-
-TIME OF OCCURRENCE  9/27/2022 12:29 P:M EST
- 	 	 	 
-EXACT URL	BUILD VERSION
-www.verizon.com    Desktop
- 	 
-			
-ACTION PERFORMED   Put in valid promotion code and not accepted
-ERROR MESSAGE  Promotion is not valid
- 	 
-EXPECTED RESULT  Promotion code accepted and discount present
-ACTUAL RESULT  Promotion code not accepted and discount not present
- 	 
-			
-FREQUENCY			
-Every Time    X	    	 
-Hardly Ever
-Once
-
-
-
-STATUS DESCRIPTION	FIXED BY
-Bug sent to supervision	 Supervison fixed on 9/27 at 6:15 p.m.  EST
-
- 
-
-
-
-
-
-
-
-
- 
-
-
- 	
-https://docs.google.com/document/d/1lz6yAHhdLGvTMFdzE5x1BHlp_YM46QLf-5CqcqOLzjI/edit?usp=sharing
-
-
- Scope 
+Scope 
  
 Inclusions  The testing primarily dealt with the checkout process   I identified ten tests I peformed on the websites which falls into one of these major categories: critical path, regression, non-functional.   l  included all of the necessary components of each test case (preconditions, steps,  and expected resuls.
  
 Exclusions   The testing was restricted  to this major feature and I did not include more that ten tests, although other tests could have been performed. 
 
-   
 
-
-Functional
-Non – Functional- Non-functional testing should increase usability, efficiency, maintainability, and portability of the product.
-Maintenance
-
-Non-functional testing should increase usability, efficiency, maintainability, and portability of the product.  Non functioning  include Black box tsting form input and validation.
 1.	 Black Box Testing - Form Input and Validation 
   Verizon site  was checked for data input validity and what happens when there are invalid inputs 
   preconditions- The email must be valid form.  The password must fit the criteria (upper case,lower case, number, special character, and minimum charcters.   
