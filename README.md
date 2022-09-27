@@ -16,7 +16,7 @@ To run the project do the following: Clone github.com/deartc/Quality-Project-Ter
 Introduction
 
 
-Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. One of the main reasons is the website tries to engage customers. For this project, I have analyzed the checkout at the Verizon   I have completed the following: #1: a test plan on the Verizon site. I have attached the test plan detailing steps I took. #2: Manual Test Execution I am presenting the results of my manual test execution. #3. I am also attaching a bug report.
+Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. One of the main reasons is the website tries to engage customers. For this project, I have analyzed the checkout at the Verizon   I have completed the following: A: a test plan on the Verizon site. I have attached the test plan detailing steps I took. B: Manual Test Execution I am presenting the results of my manual test execution. C. I am also attaching a bug report.
  
 
 
@@ -122,7 +122,12 @@ Bug sent to supervision	 Supervison fixed on 9/27 at 6:15 p.m.  EST
  	 	 	 	 	 
  
 
- Unit Test/Coding Requirement of Project:
+ 
+ 
+ 
+ 
+   3.   Unit Test/Coding Requirement of Project:
+   
 
   
 1. On the Vehicle class, add unit tests  and refactor where necessary.
