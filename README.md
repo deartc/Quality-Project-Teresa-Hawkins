@@ -24,17 +24,17 @@ https://sway.office.com/zBIxDmNBKuwC0Xrn
 	
 
 	
-I have included a bug report (hypothetical
+I have included a hypothetical  bug report  in Microsoft Sway and in  text format
 
-BUG REPORT FORM 
+BUG REPORT FORM    https://sway.office.com/iwzfKDyrqIs2oDxY?ref=Link 
 
 BUG REPORT FORM
 
 SUBMITTED BY	DATE
- Teresa Hawkins	 9/20/22
+ Teresa Hawkins	 9/27/22
 			
-ISSUE TITLE	FILE ATTACHMENT(S)
- Hypthetical     Hypothetical	 
+FILE ATTACHMENT(S)
+     Hypothetical	 
 			
 REPRODUCIBILITY   10 out of 10 times	
 
@@ -59,7 +59,7 @@ Once
 
 
 STATUS DESCRIPTION	FIXED BY
-Bug sent to supervision	  Upservison fixed on 9/27 at 6:15 p.m.  EST
+Bug sent to supervision	 Supervison fixed on 9/27 at 6:15 p.m.  EST
 
  
 
