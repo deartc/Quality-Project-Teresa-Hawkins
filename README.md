@@ -61,28 +61,27 @@ Verizon was validated by entering its URL and checked by the HTML Validator exte
   steps- Cookies was tested with cookies disabled and cookies enabled. 
   expected results- Cookies was tested with cookies disabled and cookies enabled and they passed. 
 
- 4.  Link Testing- To test for Verizon broken links, Broken Link Checker was used to see if there were broken links. Several key links were also tested to ensure goes to the proper page 
+ 4.  Link Testing- To test for Verizon broken links, Broken Link Checker was used to see if there were broken links. Key linages were also tested for proper page. 
   preconditions- Broken Link Checker was used to see if there were broken links 
   steps-  Several key links were also tested to ensure goes to the proper page and if there were broken links.
   expected results- Verizon key links  go to the proper page and  there were no  broken links.
-
-5.Website Security- Verizon’s SSL/HTTPS connection was tested to make sure it's working properly.  
+  
+  5. Website Security- Verizon’s SSL/HTTPS connection was tested to make sure it's working properly.  
  preconditions- Verizon’s SSL/HTTPS connection was checked ensuring that the HTTPS connection was present. The  password should be in encrypted format
   steps- Verizon’s SSL/HTTPS connection was checked by looking at CAPTCHA and typing in the correct answer 
   expected results-The CAPTCHA was checked  for proper functioning and it worked. The  password was in encrypted format   
-
-
-6.Mobile Responsiveness Verizon site was tested using Google's Mobile-Friendly Test. 
+  
+  6. Mobile Responsiveness Verizon site was tested using Google's Mobile-Friendly Test. 
  preconditions-  Mobile Responsiveness Verizon site was tested using Google's Mobile-Friendly Test on a Android phone
-  steps-  Google's Mobile-Friendly Test was used on a Android phone.  Mobile Responsiveness  on the Verizon site was tested to see if the layout was presentable  and the links worked,
+  steps-  Google's Mobile-Friendly Test was used on a Android phone.  Mobile Responsiveness  on the Verizon site was tested to see if the layout was presentable  
   expected results- Mobile Responsiveness testing  on the  Verizon site indicated the layout was up to standards and  the links worked.
-
-7.  Accessibility on the  Verizon  site was tested against the Web Content Accessibility Guidelines (WCAG).   W3C maintains a list of web accessibility evaluation tools that you can use to help you test your site.
+  
+  7. Accessibility on the  Verizon  site was tested against the Web Content Accessibility Guidelines (WCAG).   W3C maintains a list of web accessibility evaluation tools that you can use to help you test your site.
    preconditions- W3C  list of web accessibility evaluation tools were used to  test Verizon site.
   steps-  Accessibility on the  Verizon  site was tested against the Web Content Accessibility Guidelines (WCAG).
   expected results- Accessibility testing on the  Verizon  site against the Web Content Accessibility Guidelines (WCAG) passed.
   
-8  Functionality Testing.  Verizon functionality testing was performed The following were tested : drop-downs, buttons  and process flow .
+  8.  Functionality Testing.  Verizon functionality testing was performed The following were tested : drop-downs, buttons  and process flow .
  preconditions-  The preconditions for the Verizon functionality testing was to identifiy the  drop-downs, buttons  and process flow 
   steps- Verizon functionality testing was performed The following were tested : drop-downs, buttons  and process flow. 
   expected results- Verizon functionality passed the following tests : drop-downs, buttons  and process flow. 
