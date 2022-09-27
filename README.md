@@ -121,7 +121,7 @@ Test Step	Test 	Expected Result	Actual Result	Pass/Fail
  7.	 Accessibility	Followed Guidelines 	As Expected	 Pass
  8.	 Functionality Testing	 Functionality worked	As Expected	 Pass
  9.	 Payment Gateways	 Payment Gateway worked	As Expected	 Pass
- 10.	 10. UI Testing	 UI Testing worked	As Expected	 Pass
+ 10.	 10.	 10. UI Testing	 UI Testing worked	As Expected	 Pass
 
 
 
@@ -129,8 +129,7 @@ Test Step	Test 	Expected Result	Actual Result	Pass/Fail
 
 
 
-
-BUG REPORT FORM    https://sway.office.com/iwzfKDyrqIs2oDxY?ref=Link 
+                              BUG REPORT FORM    https://sway.office.com/iwzfKDyrqIs2oDxY?ref=Link 
 
 'BUG REPORT FORM
 
