@@ -142,6 +142,46 @@ preconditions- The preconditions of the payment gateways testing
  preconditions- The preconditions of UI testing on the Verizon site  is setting a minimum standard for design consistency, screen resolutions and browsers.
   steps- UI testing on the Verizon site included checking  design consistency, screen resolutions and browsers.
   expected results-    The UI testing on the Verizon site passed in relation to   design consistency, screen resolutions and browsers.
+  
+  
+  
+  
+  I have included a hypothetical  bug report  in Microsoft Sway and in  text format
+
+BUG REPORT FORM    https://sway.office.com/iwzfKDyrqIs2oDxY?ref=Link 
+
+BUG REPORT FORM
+
+SUBMITTED BY	DATE
+ Teresa Hawkins	 9/27/22
+			
+FILE ATTACHMENT(S)
+     Hypothetical	 
+			
+REPRODUCIBILITY   10 out of 10 times	
+
+TIME OF OCCURRENCE  9/27/2022 12:29 P:M EST
+ 	 	 	 
+EXACT URL	BUILD VERSION
+www.verizon.com    Desktop
+ 	 
+			
+ACTION PERFORMED   Put in valid promotion code and not accepted
+ERROR MESSAGE  Promotion is not valid
+ 	 
+EXPECTED RESULT  Promotion code accepted and discount present
+ACTUAL RESULT  Promotion code not accepted and discount not present
+ 	 
+			
+FREQUENCY			
+Every Time    X	    	 
+Hardly Ever
+Once
+
+
+
+STATUS DESCRIPTION	FIXED BY
+Bug sent to supervision	 Supervison fixed on 9/27 at 6:15 p.m.  EST
  
  	 	 	 	 	 
  
