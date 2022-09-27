@@ -112,18 +112,13 @@ Test Step	Test 	Expected Result	Actual Result	Pass/Fail
 
 2.	Enter Userid & Password	Credential can be entered	As Expected	Pass
 
-
 3.	Cookie Testing	Customer is logged in	As Expected	Pass
-
 
 4.	 Link Testing-	 Links worked	As Expected	 Pass
 
-
  5.	 Website Security	 Captcha worked	As Expected	 Pass
  
- 
  6.      Mobile Responsiveness	 Mobile site worked	As Expected	 Pass
- 
  7.	 Accessibility	Followed Guidelines 	As Expected	 Pass
  
  8.       Functionality Testing	 Functionality worked	As Expected	 Pass
