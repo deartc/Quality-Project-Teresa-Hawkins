@@ -113,11 +113,8 @@ FREQUENCY
 Every Time    X	    	 
 Hardly Ever
 Once
-
-
-
-STATUS DESCRIPTION	FIXED BY
-Bug sent to supervision	 Supervison fixed on 9/27 at 6:15 p.m.  EST
+	
+ Status: Supervison fixed on 9/27 at 6:15 p.m.  EST
  
  	 	 	 	 	 
  
@@ -126,14 +123,25 @@ Bug sent to supervision	 Supervison fixed on 9/27 at 6:15 p.m.  EST
  
  
  
+   
+   
+   
+   
+   
+   
+   
    3.   Unit Test/Coding Requirement of Project:
    
 
-  
+Requiremnts of classes: 
 1. On the Vehicle class, add unit tests  and refactor where necessary.
 2. On the SemiTruck class, I will implement all methods and write unit tests 
 3. Add 3rd class, Car, implement it, and add unit tests for it. 
-This is the list of tests:
+
+
+
+
+Unit tests requiremtns:
 1.	parameterless constructor -object of type Vehicle, 
 2.	Vehicle, -public properties to the provided values.
 3.	 parameterless AddGas method fills the gas tank to 100% of its capacity
