@@ -27,60 +27,6 @@ Inclusions  The testing primarily dealt with the checkout process   I identified
 Exclusions   The testing was restricted  to this major feature and I did not include more that ten tests, although other tests could have been performed. 
 
 
-1.	HTML/CSS Validation 
-Verizon was validated by entering its URL and checked by the HTML Validator extension for Chrome. 
- preconditions- The precondition for HTML/CSS Validation  is that I used the URL listed as the official Verizon HTML
-  steps-The steps for HTML/CSS Validation was checked by the HTML Validator extension for Chrome
-  expected results-The expected results for HTML/CSS Validation is that it passed. 
-  
-  2. Black Box Testing - Form Input and Validation 
-  Verizon site  was checked for data input validity and what happens when there are invalid inputs 
-  preconditions- The email must be valid form.  The password must fit the criteria (upper case,lower case, number, special character, and minimum charcters.   
-  steps, I inputted several emails.  Two valid and two invalid.    I inputted several passwords. Two valid and two invalid 
-  expected results-  The valid email and passwords passed.   The invalid email and passwords failed.
-
-	
-
-3. Cookie Testing   Cookies was tested with cookies disabled and cookies enabled.   Geekflare was used for cookies’  security issues
- preconditions- Geekflare was used for cookies’  security issues
-  steps- Cookies was tested with cookies disabled and cookies enabled. 
-  expected results- Cookies was tested with cookies disabled and cookies enabled and they passed. 
-
- 4.  Link Testing- To test for Verizon broken links, Broken Link Checker was used to see if there were broken links. Key linages were also tested for proper page. 
-  preconditions- Broken Link Checker was used to see if there were broken links 
-  steps-  Several key links were also tested to ensure goes to the proper page and if there were broken links.
-  expected results- Verizon key links  go to the proper page and  there were no  broken links.
-  
-  5. Website Security- Verizon’s SSL/HTTPS connection was tested to make sure it's working properly.  
- preconditions- Verizon’s SSL/HTTPS connection was checked ensuring that the HTTPS connection was present. The  password should be in encrypted format
-  steps- Verizon’s SSL/HTTPS connection was checked by looking at CAPTCHA and typing in the correct answer 
-  expected results-The CAPTCHA was checked  for proper functioning and it worked. The  password was in encrypted format   
-  
-  6. Mobile Responsiveness Verizon site was tested using Google's Mobile-Friendly Test. 
- preconditions-  Mobile Responsiveness Verizon site was tested using Google's Mobile-Friendly Test on a Android phone
-  steps-  Google's Mobile-Friendly Test was used on a Android phone.  Mobile Responsiveness  on the Verizon site was tested to see if the layout was presentable  
-  expected results- Mobile Responsiveness testing  on the  Verizon site indicated the layout was up to standards and  the links worked.
-  
-  7. Accessibility on the  Verizon  site was tested against the Web Content Accessibility Guidelines (WCAG).   W3C maintains a list of web accessibility evaluation tools that you can use to help you test your site.
-   preconditions- W3C  list of web accessibility evaluation tools were used to  test Verizon site.
-  steps-  Accessibility on the  Verizon  site was tested against the Web Content Accessibility Guidelines (WCAG).
-  expected results- Accessibility testing on the  Verizon  site against the Web Content Accessibility Guidelines (WCAG) passed.
-  
-  8.  Functionality Testing.  Verizon functionality testing was performed The following were tested : drop-downs, buttons  and process flow .
- preconditions-  The preconditions for the Verizon functionality testing was to identifiy the  drop-downs, buttons  and process flow 
-  steps- Verizon functionality testing was performed The following were tested : drop-downs, buttons  and process flow. 
-  expected results- Verizon functionality passed the following tests : drop-downs, buttons  and process flow. 
-
-9.  Payment Gateways    Payment gateways on Verizon were tested. to make sure they're working.
-preconditions- The preconditions of the payment gateways testing
-  steps- The steps of the payment gateways testing
-  expected results- The expected results of the payment gateways testing is that it passed
-
-10. UI Testing. UI testing on the Verizon site included checking  design consistency, screen resolutions and browsers
- preconditions- The preconditions of UI testing on the Verizon site  is setting a minimum standard for design consistency, screen resolutions and browsers.
-  steps- UI testing on the Verizon site included checking  design consistency, screen resolutions and browsers.
-  expected results-    The UI testing on the Verizon site passed in relation to   design consistency, screen resolutions and browsers.
-  
   
   1.	HTML/CSS Validation 
 Verizon was validated by entering its URL and checked by the HTML Validator extension for Chrome. 
