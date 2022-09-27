@@ -27,17 +27,19 @@ Inclusions  The testing primarily dealt with the checkout process   I identified
 Exclusions   The testing was restricted  to this major feature and I did not include more that ten tests, although other tests could have been performed. 
 
 
-1.	 Black Box Testing - Form Input and Validation 
+1.	HTML/CSS Validation 
+Verizon was validated by entering its URL and checked by the HTML Validator extension for Chrome. 
+ preconditions- The precondition for HTML/CSS Validation  is that I used the URL listed as the official Verizon HTML
+  steps-The steps for HTML/CSS Validation was checked by the HTML Validator extension for Chrome
+  expected results-The expected results for HTML/CSS Validation is that it passed. 
+  
+  2. Black Box Testing - Form Input and Validation 
   Verizon site  was checked for data input validity and what happens when there are invalid inputs 
   preconditions- The email must be valid form.  The password must fit the criteria (upper case,lower case, number, special character, and minimum charcters.   
   steps, I inputted several emails.  Two valid and two invalid.    I inputted several passwords. Two valid and two invalid 
   expected results-  The valid email and passwords passed.   The invalid email and passwords failed.
 
-2.	HTML/CSS Validation 
-Verizon was validated by entering its URL and checked by the HTML Validator extension for Chrome. 
- preconditions- The precondition for HTML/CSS Validation  is that I used the URL listed as the official Verizon HTML
-  steps-The steps for HTML/CSS Validation was checked by the HTML Validator extension for Chrome
-  expected results-The expected results for HTML/CSS Validation is that it passed
+	
 
 3. Cookie Testing   Cookies was tested with cookies disabled and cookies enabled.   Geekflare was used for cookies’  security issues
  preconditions- Geekflare was used for cookies’  security issues
@@ -82,7 +84,9 @@ preconditions- The preconditions of the payment gateways testing
   
   
   
-  I have included a hypothetical  bug report  in Microsoft Sway and in  text format
+2.   A test report and a  hypothetical  bug report  in Microsoft Sway and in  text format
+
+Test Form   https://sway.office.com/wPGb2CIaQVvXvN66?ref=Link
 
 BUG REPORT FORM    https://sway.office.com/iwzfKDyrqIs2oDxY?ref=Link 
 
