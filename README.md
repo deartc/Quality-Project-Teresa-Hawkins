@@ -5,9 +5,7 @@
 To run the project do the following: Clone github.com/deartc/Quality-Project-Teresa-Hawkins. (Any other instructions I need to include goes here).  The extensions used were C# and Net.  The NuGets used were xunit and others.  
 
 
- 
-                                          #1 VERIZON PRESENTATION 
-  
+                  VERIZON PRESENTATION`
  
 
 https://sway.office.com/RUtZgIOpvrVODKJM?ref=Link
@@ -116,8 +114,9 @@ Test Step	Test 	Expected Result	Actual Result	Pass/Fail
  6.	 Mobile Responsiveness	 Mobile site worked	As Expected	 Pass
  7.	 Accessibility	Followed Guidelines 	As Expected	 Pass
  8.	 Functionality Testing	 Functionality worked	As Expected	 Pass
- 9.	 Payment Gateways	 Payment Gateway worked	As Expected	 Pass  	  	   
-10. 	 UI Testing	 UI Testing worked	As Expected	 Pass
+ 9.	 Payment Gateways	 Payment Gateway worked	As Expected	 Pass
+ 10.	 UI Testing  UI Worked As Expected Pass              
+
 
 
 
