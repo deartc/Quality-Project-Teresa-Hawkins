@@ -93,9 +93,39 @@ preconditions- The preconditions of the payment gateways testing
 
 Test Form   https://sway.office.com/wPGb2CIaQVvXvN66?ref=Link
 
+
+		Test Case Description	 Verizon Checkout 
+Created By	Teresa Hawkins			Organization	Code Louisville
+										
+QA Tester’s Log
+1.	 Tested on 	
+				
+										
+Tester's Name 	Teresa Hawkins	Date Tested	9/27/2022
+12:57 p.m EST	Test Case (Pass/Fail/Not Executed)	Pass
+Test Step	Test 	Expected Result	Actual Result	Pass/Fail
+				
+1	Navigate to http://verizon.com	Site should open	As Expected/Verizon report is attached	Pass
+2	Enter Userid & Password	Credential can be entered	As Expected	Pass
+3	Cookie Testing	Customer is logged in	As Expected	Pass
+4	 Link Testing-	 Links worked	As Expected	 Pass
+ 5	 Website Security	 Captcha worked	As Expected	 Pass
+ 6
+	 Mobile Responsiveness	 Mobile site worked	As Expected	 Pass
+ 7	 Accessibility	Followed Guidelines 	As Expected	 Pass
+ 8
+	 Functionality Testing	 Functionality worked	As Expected	 Pass
+ 9	 Payment Gateways	 Payment Gateway worked	As Expected	 Pass
+ 10
+	 UI Testing	 UI Testing worked	As Expected	 Pass
+
+
+
+
+
 BUG REPORT FORM    https://sway.office.com/iwzfKDyrqIs2oDxY?ref=Link 
 
-BUG REPORT FORM
+'BUG REPORT FORM
 
 SUBMITTED BY	DATE
 Teresa Hawkins	 9/27/22
