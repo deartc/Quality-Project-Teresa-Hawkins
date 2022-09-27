@@ -84,7 +84,7 @@ preconditions- The preconditions of the payment gateways testing
   
   
   
-2.   A test report and a  hypothetical  bug report  in Microsoft Sway and in  text format
+                            2.  TEST REPORT/BUG REPORT 
 
 Test Form   https://sway.office.com/wPGb2CIaQVvXvN66?ref=Link
 
