@@ -6,7 +6,7 @@ To run the project do the following: Clone github.com/deartc/Quality-Project-Ter
 
 
  
- Assignment 1  -Test Plan  For Verizon 
+                                           ASSIGNMENT # 1/#2  -  VERIZON TEST PLAN/PRESENTATION/BUG REPORT 
   
  
 
@@ -89,30 +89,37 @@ BUG REPORT FORM    https://sway.office.com/iwzfKDyrqIs2oDxY?ref=Link 
 BUG REPORT FORM
 
 SUBMITTED BY	DATE
- Teresa Hawkins	 9/27/22
+Teresa Hawkins	 9/27/22
 			
 FILE ATTACHMENT(S)
-     Hypothetical	 
+Hypothetical	 
 			
-REPRODUCIBILITY   10 out of 10 times	
+REPRODUCIBILITY   
+10 out of 10 times	
 
-TIME OF OCCURRENCE  9/27/2022 12:29 P:M EST
+TIME OF OCCURRENCE 
+9/27/2022 12:29 P:M EST
  	 	 	 
-EXACT URL	BUILD VERSION
-www.verizon.com    Desktop
+EXACT URL
+www.verizon.com
+
+BUILD VERSION
+ Desktop
  	 
 			
-ACTION PERFORMED   Put in valid promotion code and not accepted
+ACTION PERFORMED   
+Put in valid promotion code and not accepted
+
 ERROR MESSAGE  Promotion is not valid
  	 
 EXPECTED RESULT  Promotion code accepted and discount present
+
 ACTUAL RESULT  Promotion code not accepted and discount not present
  	 
 			
 FREQUENCY			
 Every Time    X	    	 
-Hardly Ever
-Once
+
 Status: Supervison fixed on 9/27 at 6:15 p.m.  EST
  
  	 	 	 	 	 
@@ -137,7 +144,7 @@ Status: Supervison fixed on 9/27 at 6:15 p.m.  EST
             #3.  UNIT TEST PROJECT:
    
 
-Requiremnts of classes: 
+Requirements of classes completion: 
 1. On the Vehicle class, add unit tests  and refactor where necessary.
 2. On the SemiTruck class,  implement all methods and write unit tests 
 3. Add 3rd class, Car, implement it, and add unit tests for it. 
