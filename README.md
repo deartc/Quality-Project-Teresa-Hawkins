@@ -26,6 +26,41 @@ https://sway.office.com/zBIxDmNBKuwC0Xrn
 	
 I have included a bug report
 
+BUG REPORT FORM
+
+SUBMITTED BY	DATE
+ Teresa Hawkins	 9/20/22
+			
+ISSUE TITLE	FILE ATTACHMENT(S)
+ 	 
+			
+REPRODUCIBILITY  ex. 3 out of 10 times	TIME OF OCCURRENCE
+ 	 	 	 
+EXACT URL	BUILD VERSION
+ 	 
+			
+ACTION PERFORMED	ERROR MESSAGE
+ 	 
+EXPECTED RESULT	ACTUAL RESULT
+ 	 
+			
+FREQUENCY	X	PRIORITY	X
+Every Time	 	Critical	 
+Hardly Ever	 	High	 
+Occasionally	 	Medium	 
+Once	 	Low	 
+			
+STATUS DESCRIPTION	FIXED BY
+ 	 
+
+ 
+
+
+
+
+
+
+
 
 https://docs.google.com/document/d/1lz6yAHhdLGvTMFdzE5x1BHlp_YM46QLf-5CqcqOLzjI/edit?usp=sharing
 
