@@ -6,7 +6,7 @@ To run the project do the following: Clone github.com/deartc/Quality-Project-Ter
 
 
  
-                                           ASSIGNMENT # 1 -  VERIZON PRESENTATION 
+                                          #1 VERIZON PRESENTATION 
   
  
 
@@ -91,7 +91,7 @@ preconditions- The preconditions of the payment gateways testing
   
 
   
-                            2.  TEST REPORT/BUG REPORT 
+                            # 2.  TEST REPORT
 
 Test Form   https://sway.office.com/wPGb2CIaQVvXvN66?ref=Link
 
@@ -121,7 +121,7 @@ Test Step	Test 	Expected Result	Actual Result	Pass/Fail
  7.	 Accessibility	Followed Guidelines 	As Expected	 Pass
  8.	 Functionality Testing	 Functionality worked	As Expected	 Pass
  9.	 Payment Gateways	 Payment Gateway worked	As Expected	 Pass  	 
- 10.     UI Testing	 UI Testing worked	As Expected	 Pass   
+ 10. 	 UI Testing	 UI Testing worked	As Expected	 Pass   
 
 
 
@@ -130,7 +130,8 @@ Test Step	Test 	Expected Result	Actual Result	Pass/Fail
 
 https://sway.office.com/iwzfKDyrqIs2oDxY?ref=Link 
                             
-			    BUG REPORT FORM    
+			    
+			     #2 BUG REPORT FORM    
 
 'BUG REPORT FORM
 
