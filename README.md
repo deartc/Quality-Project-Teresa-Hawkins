@@ -24,9 +24,53 @@ https://sway.office.com/zBIxDmNBKuwC0Xrn
 	
 
 	
-I have included a bug report
+I have included a bug report (hypothetical
+
+BUG REPORT FORM 
 
 BUG REPORT FORM
+
+SUBMITTED BY	DATE
+ Teresa Hawkins	 9/20/22
+			
+ISSUE TITLE	FILE ATTACHMENT(S)
+ Hypthetical     Hypothetical	 
+			
+REPRODUCIBILITY   10 out of 10 times	
+
+TIME OF OCCURRENCE  9/27/2022 12:29 P:M EST
+ 	 	 	 
+EXACT URL	BUILD VERSION
+www.verizon.com    Desktop
+ 	 
+			
+ACTION PERFORMED   Put in valid promotion code and not accepted
+ERROR MESSAGE  Promotion is not valid
+ 	 
+EXPECTED RESULT  Promotion code accepted and discount present
+ACTUAL RESULT  Promotion code not accepted and discount not present
+ 	 
+			
+FREQUENCY			
+Every Time    X	    	 
+Hardly Ever
+Once
+
+
+
+STATUS DESCRIPTION	FIXED BY
+Bug sent to supervision	  Upservison fixed on 9/27 at 6:15 p.m.  EST
+
+ 
+
+
+
+
+
+
+
+
+ 
 
 
  	
