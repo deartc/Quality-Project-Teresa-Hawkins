@@ -95,8 +95,7 @@ preconditions- The preconditions of the payment gateways testing
 
 Test Form   https://sway.office.com/wPGb2CIaQVvXvN66?ref=Link
 
-
-		Test Case Description	 Verizon Checkout 
+Test Case Description	 Verizon Checkout 
 Created By	Teresa Hawkins			Organization	Code Louisville
 										
 QA Tester’s Log
