@@ -11,7 +11,7 @@ To run the project do the following: Clone github.com/deartc/Quality-Project-Ter
 https://sway.office.com/RUtZgIOpvrVODKJM?ref=Link
 
 
-#1: Test Presentation
+#1: Test Plan
 
 Introduction
 
@@ -87,7 +87,7 @@ Verizon was validated by entering its URL and checked by the HTML Validator exte
   
 
   
-                            # 2A.  TEST PLAN EXECUTION
+                            # 2A.  TEST EXECUTION
 
 Test Form   https://sway.office.com/wPGb2CIaQVvXvN66?ref=Link
 
