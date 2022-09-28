@@ -16,13 +16,13 @@ https://sway.office.com/RUtZgIOpvrVODKJM?ref=Link
 Introduction
 
 
-Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. One of the main reasons is the website tries to engage customers. For this project, I have analyzed the  hypthetical updated feature in the Verizon checkout.   I have completed the following: A: a test presentation on the Verizon site. I have attached the test plan detailing steps I took. B: Manual Test Execution I am presenting the results of my manual test execution. C. I am also attaching a bug report.  I did the project with Microsoft Sway as well as a plain text.
+Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. One of the main reasons is the website tries to engage customers. For this project, I have analyzed the  hypthetical updated feature in the Verizon checkout.   I have completed the following: A: a test presentation on the Verizon site. I have attached the test plan detailing steps I took. B: Manual Test Execution I am presenting the results of my manual test execution. C. I am also attaching a bug report.  I did the project with Microsoft Sway as well as a plain text version.
  
 
 
 Scope 
  
-Inclusions  The testing primarily dealt with the checkout process   I identified ten tests I peformed on the websites which falls into one of these major categories: critical path, regression, non-functional.   l  included all of the necessary components of each test case (preconditions, steps,  and expected resuls.
+Inclusions  The testing primarily dealt with the checkout process   I identified ten tests I peformed on the websites which falls into one of these major categories: critical path, regression, non-functional.   l  included all of the necessary components of each test case (preconditions, steps,  and expected results.)
  
 Exclusions   The testing was restricted  to this major feature and I did not include more that ten tests, although other tests could have been performed. 
 
