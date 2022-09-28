@@ -76,13 +76,18 @@ Exclusions:   The testing was restricted to this major feature, and I did not in
 
 9.  Payment Gateways.    Payment gateways on Verizon were tested to make sure they're working.
   a. Preconditions- The preconditions of the payment gateways were tested was to identify the payment accepted.
-  b. Steps -The steps of the payment gateways testing were entering two credit cards numbers. 
-  c. Expected results- The expected results of the payment gateways testing is that it passed.
+  b. Steps -The steps of the payment gateways testing were entering credit cards numbers.  Valid promo code were also entered.   
+  c. Expected results- The expected results of the payment gateways testing is that it passed.  An attached bug report though shows that a promotoion
+     code failed.
 
 10. UI Testing. UI testing on the Verizon site included checking design consistency, screen resolutions and browsers
   a. Preconditions- The preconditions of UI testing are setting a minimum standard for design consistency, screen resolutions and browsers.
   b. Steps- UI testing on the Verizon site included checking design consistency, screen resolutions and browsers.
   c. Expected results- The UI testing on the Verizon site passed in relation to   design consistency, screen resolutions and browsers.
+  
+  Results:  The new checkout feature of the Verizon website passed the  critical path tests but one non critical one (promo code) created a problem. 
+  A bug report form was filled out and submitted to supervision.   The bug was fixed within six hours and retested.  It passed so the new feature is 
+  approved by the quality assurance tests.
 
   
   
