@@ -8,7 +8,7 @@ To run the project do the following: Clone github.com/deartc/Quality-Project-Ter
                   VERIZON PRESENTATION`
  
 
-https://sway.office.com/RUtZgIOpvrVODKJM?ref=Link
+https://sway.office.com/TUvv1nXJTvfVdgnF?ref=Link&loc=play
 
 
 #1: Test Plan
