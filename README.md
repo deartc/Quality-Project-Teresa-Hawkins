@@ -30,14 +30,14 @@ Exclusions:   The testing was restricted to this major feature, and I did not in
 
 
   
- 1.HTML/CSS Validation 
-  Verizon was validated by entering its URL and checked by the HTML Validator extension for Chrome. 
-  a. a. Preconditions- The precondition for HTML/CSS Validation is that I used the URL listed as the official Verizon HTML
+ 1. HTML/CSS Validation 
+    Verizon was validated by entering its URL and checked by the HTML Validator extension for Chrome. 
+  a. Preconditions- The precondition for HTML/CSS Validation is that I used the URL listed as the official Verizon HTML
   b. Steps-The steps for HTML/CSS Validation were checked by the HTML Validator extension for Chrome
   c. Expected results-The expected results for HTML/CSS Validation is that it passed. 
   
  2. Black Box Testing (functional) - Form Input and Validation 
-  Verizon site was checked for data input validity and what happens when there are invalid inputs 
+    Verizon site was checked for data input validity and what happens when there are invalid inputs 
   a. Preconditions- The email must be valid form.  The password must fit the criteria (upper case, lower case, number, special character, and minimum characters.   
   b. Steps- I inputted several emails some valid and invalid.    I inputted several passwords some valid and some invalid. 
   c. Expected results- The valid email and passwords passed.   The invalid email and passwords failed.
