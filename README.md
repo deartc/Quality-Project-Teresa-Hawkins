@@ -208,7 +208,7 @@ Unit tests requirementss:
 12.	ChangeTireAsync will throw a NoTireToChangeException 
 13.	ChangeTireAsync can successfully be used to change a flat tire
 14.	 GotFlatTire method Refactor GotFlatTire can be both true and false. 
-15.	 SemiTruck object which is also a Vehicle and has 18 wheels. V
+15.	 SemiTruck object which is also a Vehicle and has 18 wheels. 
 16.	Cargo property -CargoItems which is empty, but not null.
 17.	LoadCargo: correctly adds the passed object to the Cargo.
 18.	UnloadCargo Positive Test: remove  from the Cargo and return cargo 
