@@ -2,7 +2,7 @@
 
  QA Testing Project Instructions:
 
-To run the project do the following: Clone github.com/deartc/Quality-Project-Teresa-Hawkins. (Any other instructions I need to include goes here).  The extensions used were C# and Net.  The NuGets used were xunit and others.  
+To run the project do the following: Clone github.com/deartc/Quality-Project-Teresa-Hawkins. (Any other instructions I need to include goes here). The extensions used were C# and Net.  The NuGets used were xunit and others.  
 
 
                   VERIZON PRESENTATION`
@@ -17,26 +17,26 @@ Introduction
 
 
 Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. One of the main reasons is the website tries to engage customers. For this project, I have analyzed the hypothetical updated feature in the Verizon checkout. I have completed the following types of testing: functional, regression, and critical path. Regression testing is done to verify that the complete system and bug fixes are working fine. Functional
-testing is done to verify that each functionality is working as expected. The differences between  functional testing and non functional are that the functional testing ensures it works as expected but the non-functional testing ensures that the application works good enough to meet the business expectation.  The non-functional test comes under a black box testing technique. Critical path tests are run to examine functionality exploited by typical users during their day-to-day activities. These are the project requirements I completed: 1: a test plan presentation on the Verizon site, 2A: Manual Test Execution plan completed, and a 
+testing is done to verify that each functionality is working as expected. The differences between functional testing and non-functional are that the functional testing ensures it works as expected but the non-functional testing ensures that the application works good enough to meet the business expectation.  The non-functional test comes under a black box testing technique. Critical path tests are run to examine functionality required by typical users during their average day. These are the project requirements I completed: 1:Test plan presentation on the Verizon site, 2A: Manual Test Execution, and a 
 2B. a bug report.  I did the project with Microsoft Sway as well as a plain text version.
  
 
 
 Scope 
  
-Inclusions: The testing primarily dealt with the checkout process   I identified ten tests I performed on the websites which falls into one of these major categories: critical path, regression, non-functional.   l included all the necessary components of each test case (preconditions, steps, and expected results.)
+Inclusions: The testing primarily dealt with the checkout process   I identified ten tests I performed on the website which falls into one of these major categories: critical path, regression, non-functional.  l included all the necessary components of each test case (preconditions, steps, and expected results.)
  
 Exclusions:   The testing was restricted to this major feature, and I did not include more than ten tests, although other tests could have been performed. 
 
 
   
-  1.	HTML/CSS Validatio n 
+ 1.HTML/CSS Validation 
   Verizon was validated by entering its URL and checked by the HTML Validator extension for Chrome. 
- a. a. Preconditions- The precondition for HTML/CSS Validation is that I used the URL listed as the official Verizon HTML
- b. Steps-The steps for HTML/CSS Validation were checked by the HTML Validator extension for Chrome
- c. Expected results-The expected results for HTML/CSS Validation is that it passed. 
+  a. a. Preconditions- The precondition for HTML/CSS Validation is that I used the URL listed as the official Verizon HTML
+  b. Steps-The steps for HTML/CSS Validation were checked by the HTML Validator extension for Chrome
+  c. Expected results-The expected results for HTML/CSS Validation is that it passed. 
   
-  2. Black Box Testing (functional) - Form Input and Validation 
+ 2. Black Box Testing (functional) - Form Input and Validation 
   Verizon site was checked for data input validity and what happens when there are invalid inputs 
   a. Preconditions- The email must be valid form.  The password must fit the criteria (upper case, lower case, number, special character, and minimum characters.   
   b. Steps- I inputted several emails some valid and invalid.    I inputted several passwords some valid and some invalid. 
