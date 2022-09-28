@@ -16,7 +16,7 @@ https://sway.office.com/RUtZgIOpvrVODKJM?ref=Link
 Introduction
 
 
-Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. One of the main reasons is the website tries to engage customers. For this project, I have analyzed the hypothetical updated feature in the Verizon checkout. I have completed the following types of testing: functional, regression and critical path. Regression testing is done to verify that the complete system and bug fixes are working fine. Functionaltes testing is done to verify that each functionality is working as expected. The differences between  functional testing and non functional is that the functional testing ensures it works as expected but the non-functional testing ensures that the application works good enough to meet the business expectation.  The non-functional test comes under a black box testing technique. Critical path tests are run to examine functionality exploited by typical users during their day-to-day activities. These are the project requirements I completed:  A: a test presentation on the Verizon site. I have attached the test plan detailing steps I took. B: Manual Test Execution form completed.  C. I am also attaching a bug report.  I did the project with Microsoft Sway as well as a plain text version
+Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. One of the main reasons is the website tries to engage customers. For this project, I have analyzed the hypothetical updated feature in the Verizon checkout. I have completed the following types of testing: functional, regression, and critical path. Regression testing is done to verify that the complete system and bug fixes are working fine. Functionaltes testing is done to verify that each functionality is working as expected. The differences between  functional testing and non functional is that the functional testing ensures it works as expected but the non-functional testing ensures that the application works good enough to meet the business expectation.  The non-functional test comes under a black box testing technique. Critical path tests are run to examine functionality exploited by typical users during their day-to-day activities. These are the project requirements I completed: 1: a test plan presentation on the Verizon site. I have attached the test plan detailing steps I took. 2A: Manual Test Execution form completed.  2B. I am also attaching a bug report.  I did the project with Microsoft Sway as well as a plain text version
  
 
 
@@ -87,7 +87,7 @@ Verizon was validated by entering its URL and checked by the HTML Validator exte
   
 
   
-                            # 2.  TEST REPORT
+                            # 2A.  TEST PLAN EXECUTION
 
 Test Form   https://sway.office.com/wPGb2CIaQVvXvN66?ref=Link
 
@@ -126,7 +126,7 @@ Test Step	Test 	Expected Result	Actual Result	Pass/Fail
 https://sway.office.com/iwzfKDyrqIs2oDxY?ref=Link 
                             
 			    
-			     #2 BUG REPORT FORM    
+			     #2B. BUG REPORT FORM    
 
 'BUG REPORT FORM
 
