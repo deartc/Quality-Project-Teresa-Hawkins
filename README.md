@@ -235,6 +235,6 @@ Unit tests requirementss:
 39.	Method- car
 
 
-the first steps of the code are included here: https://github.com/deartc/CarSection.git
+the first steps of the code are included here: https://github.com/deartc/VehicleSection
 
 
