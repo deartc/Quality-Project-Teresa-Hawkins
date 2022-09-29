@@ -18,20 +18,19 @@ Scope:
 Inclusions: The testing primarily dealt with the checkout process   I identified ten tests I performed on the websites which falls into one of these major categories: critical path, regression, non-functional.   l included all the necessary components of each test case (preconditions, steps, and expected results.) In each test the time limit was ten minutes.
 Exclusions:   The testing was restricted to this major feature, and I did not include more than ten tests, although other tests could have been performed. The time limit was set by project.
  
-  1.HTML/CSS Validation 
+1. HTML/CSS Validation 
 Verizon was validated by entering its URL and checked by the HTML Validator extension for Chrome. 
  a. a. Preconditions- The time limit was ten minutes. The precondition for HTML/CSS Validation is that I used the URL listed as the official Verizon HTML.
 b. Steps- Step one is the HTML/CSS Validation was checked by the HTML Validator extension for Chrome.  Step two, it noted if there were any problems.  Step three, the possible problems would be noted.   
  c. Expected results-The expected results for HTML/CSS Validation is that it passed.  I had no problems navigating.
   
-  2.Form Input and Validation (Black Box Testing) 
+2. Form Input and Validation (Black Box Testing) 
   Verizon site was checked for data input validity and what happens when there are invalid inputs. 
   a. Preconditions- The time limit was ten minutes. The email must be valid form.  The password must fit the criteria (upper case, lower case, number, special character, and minimum characters.   
  b. Steps- I inputted several emails some valid and invalid.    I inputted several passwords some valid and some invalid. 
   c. Expected results- The valid email and passwords passed.   The invalid email and passwords failed.
  
            
- 
 3. Cookie Testing   Cookies was tested with cookies disabled and cookies enabled.   Chrome Cookie Manager was used for cookies’ security issues
 a. Preconditions- Chrome Cookie Manager was installed to test for cookies’ security issues. The time limit was ten minutes.  
   b. Steps- Step one, using Chrome Cookie Manager the site was tested with cookies disabled.  Step two, using Chrome Cookie Manager the site was tested with cookies enabled. 
