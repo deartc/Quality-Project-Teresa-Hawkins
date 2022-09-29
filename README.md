@@ -225,7 +225,7 @@ Status: Supervison fixed on 9/27 at 6:15 p.m.  EST
 Requirements of classes completion: 
 1. On the Vehicle class, add unit tests  and refactor where necessary.
 2. On the SemiTruck class,  implement all methods and write unit tests. 
-3. Add 3rd class, Car, implement it, and add unit tests for it. (Started see below github link) 
+3. Add 3rd class, Car, implement it, and add unit tests for it. (Started but did not include git hub link) 
 
 
 
@@ -272,6 +272,5 @@ Unit tests requirementss:
 39.	Method- car
 
 
-the first steps of the code are included here: https://github.com/deartc/CarSection
 
 
