@@ -20,7 +20,7 @@ Exclusions:   The testing was restricted to this major feature, and I did not in
  
 1. HTML/CSS Validation 
 Verizon was validated by entering its URL and checked by the HTML Validator extension for Chrome. 
- a. a. Preconditions- The time limit was ten minutes. The precondition for HTML/CSS Validation is that I used the URL listed as the official Verizon HTML.
+a. Preconditions- The time limit was ten minutes. The precondition for HTML/CSS Validation is that I used the URL listed as the official Verizon HTML.
 b. Steps- Step one is the HTML/CSS Validation was checked by the HTML Validator extension for Chrome.  Step two, it noted if there were any problems.  Step three, the possible problems would be noted.   
  c. Expected results-The expected results for HTML/CSS Validation is that it passed.  I had no problems navigating.
   
@@ -28,17 +28,17 @@ b. Steps- Step one is the HTML/CSS Validation was checked by the HTML Validator 
   Verizon site was checked for data input validity and what happens when there are invalid inputs. 
   a. Preconditions- The time limit was ten minutes. The email must be valid form.  The password must fit the criteria (upper case, lower case, number, special character, and minimum characters.   
  b. Steps- I inputted several emails some valid and invalid.    I inputted several passwords some valid and some invalid. 
-  c. Expected results- The valid email and passwords passed.   The invalid email and passwords failed.
+ c. Expected results- The valid email and passwords passed.   The invalid email and passwords failed.
  
            
 3. Cookie Testing   Cookies was tested with cookies disabled and cookies enabled.   Chrome Cookie Manager was used for cookies’ security issues
 a. Preconditions- Chrome Cookie Manager was installed to test for cookies’ security issues. The time limit was ten minutes.  
-  b. Steps- Step one, using Chrome Cookie Manager the site was tested with cookies disabled.  Step two, using Chrome Cookie Manager the site was tested with cookies enabled. 
-  c. Expected results- Cookies was tested with cookies disabled and cookies enabled, and Chrome Cookie  Manager did not generate major error.  
+ b. Steps- Step one, using Chrome Cookie Manager the site was tested with cookies disabled.  Step two, using Chrome Cookie Manager the site was tested with cookies enabled. 
+c.Expected results- Cookies was tested with cookies disabled and cookies enabled, and Chrome Cookie  Manager did not generate major error.  
  
 4.  Link Testing- To test for Verizon broken links, check to see if there were broken links. Links were also tested for proper page. 
   a. Preconditions- In this test, I used Google Analytics to see if there were broken links.  The time limit was ten minutes.  
-  b. Steps-   On Google Analytics account click on behavior tab.  Then select “site content.  Then go to page and then apply. Several key links were also tested to ensure goes to the proper page and if there were broken links.
+  b. Steps-   On Google Analytics account click on behavior tab.  Then select “site content.  Several key links for proper page. bad links.
   c. Expected results- Verizon key links go to the proper page and there were no broken links.
   
   5. Website Security (Black box Testing)- Verizon’s SSL/HTTPS connection was tested to make sure it's working properly.  
