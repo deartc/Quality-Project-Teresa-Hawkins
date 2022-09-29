@@ -125,8 +125,8 @@ Test 	Steps
 2. Enter Userid & Password,  Step one, I inputted several emails some valid and invalid. Step two, I inputted several passwords some valid and some invalid.
 3. Cookie Testing	Step one, using Chrome Cookie Manager the site was tested with cookies disabled.  Step two, using Chrome Cookie Manager the site was tested with cookies enabled.
 4. Link Testing-	 On Google Analytics account click on behavior tab.  Then select “site content.  Then go to page and then apply. Several key links were also tested to ensure goes to the proper page and if there were broken links
- 5. Website Security	 1. Verizon’s SSL/HTTPS connection was checked by looking at CAPTCHA  2. Typing in the correct answer. 3.Ensuring the HTTPS connection on site.  4. Password and credit card encrypted.
- Mobile Responsiveness	Step one was Google’s Mobile-Friendly Test was used on several android phones.  Step two was Mobile Responsiveness on the Verizon site was tested to see if the layout was presentable.
+ 5. Website Security	Step one was Verizon’s SSL/HTTPS connection was checked by looking at CAPTCHA.  Step two is typing in the correct answer. Step three is ensuring the HTTPS connection on site.  Step four is word and credit card encrypted.
+6.  Mobile Responsiveness	Step one was Google’s Mobile-Friendly Test was used on several android phones.  Step two was Mobile Responsiveness on the Verizon site was tested to see if the layout was presentable.
  7.  Accessibility	 1. I checked for clear page titles. Step two, I tested for identified images that met guidelines. Step three, I checked to see if heading levels were correct. Step four, I checked for font size. Step five, I checked for color contrast.
  8. Functionality Testing
  Verizon functionality testing was performed, and the following steps were done.  Step one, test for dropdowns.   Step two test for buttons.   Step three test for process flow.
