@@ -111,21 +111,18 @@ Test Step	Test 	Expected Result	Actual Result	Pass/Fail
 2	Enter Userid & Password	Credential can be entered	As Expected	Pass
 3	Cookie Testing	Customer is logged in	As Expected	Pass
 4	 Link Testing-	 Links worked	As Expected	 Pass
- 5	 Website Security	 Captcha worked	As Expected	 Pass
- 6
-	 Mobile Responsiveness	 Mobile site worked	As Expected	 Pass
- 7	 Accessibility	Followed Guidelines 	As Expected	 Pass
- 8
-	 Functionality Testing	 Functionality worked	As Expected	 Pass
- 9	 Payment 	 Payment Gateway worked	As Expected/ but promo code failed so conditional 	 Pass (After bug fix)
- 10
-	 UI Testing	 UI Testing worked	As Expected	 Pass
+5	 Website Security	 Captcha worked	As Expected	 Pass
+6       Mobile Responsiveness	 Mobile site worked	As Expected	 Pass
+7	 Accessibility	Followed Guidelines 	As Expected	 Pass
+8        Functionality Testing	 Functionality worked	As Expected	 Pass
+9	 Payment 	 Payment Gateway worked	As Expected/ but promo code failed so conditional 	 Pass (After bug fix)
+10       UI Testing	 UI Testing worked	As Expected	 Pass
 
 
 Test 	Steps 
 	
 1. Navigate to http://verizon.com	 Step one is the HTML/CSS Validation was checked by the HTML Validator extension for Chrome.  Step two, it noted if there were any problems.  Step three, the possible problems would be noted.
-2. Enter Userid & Password	1. I inputted several emails some valid and invalid.   2. I inputted several passwords some valid and some invalid.
+2. Enter Userid & Password,  Step one, I inputted several emails some valid and invalid. Step two, I inputted several passwords some valid and some invalid.
 3. Cookie Testing	Step one, using Chrome Cookie Manager the site was tested with cookies disabled.  Step two, using Chrome Cookie Manager the site was tested with cookies enabled.
 4. Link Testing-	 On Google Analytics account click on behavior tab.  Then select “site content.  Then go to page and then apply. Several key links were also tested to ensure goes to the proper page and if there were broken links
  5. Website Security	 1. Verizon’s SSL/HTTPS connection was checked by looking at CAPTCHA  2. Typing in the correct answer. 3.Ensuring the HTTPS connection on site.  4. Password and credit card encrypted.
