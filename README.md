@@ -24,7 +24,7 @@ Verizon was validated by entering its URL and checked by the HTML Validator exte
 b. Steps- Step one is the HTML/CSS Validation was checked by the HTML Validator extension for Chrome.  Step two, it noted if there were any problems.  Step three, the possible problems would be noted.   
  c. Expected results-The expected results for HTML/CSS Validation is that it passed.  I had no problems navigating.
   
-  2. Black Box Testing - Form Input and Validation 
+  2.Form Input and Validation (Black Box Testing) 
   Verizon site was checked for data input validity and what happens when there are invalid inputs. 
   a. Preconditions- The time limit was ten minutes. The email must be valid form.  The password must fit the criteria (upper case, lower case, number, special character, and minimum characters.   
  b. Steps- I inputted several emails some valid and invalid.    I inputted several passwords some valid and some invalid. 
@@ -44,12 +44,14 @@ a. Preconditions- Chrome Cookie Manager was installed to test for cookies’ sec
   
   5. Website Security (Black box Testing)- Verizon’s SSL/HTTPS connection was tested to make sure it's working properly.  
  a. Preconditions- Verizon’s SSL/HTTPS connection was checked ensuring that the HTTPS connection was present. The time limit was ten minutes. The password should be in encrypted format.  It should not allow invalid users. 
-  b. Steps- Verizon’s SSL/HTTPS connection was checked by looking at CAPTCHA and typing in the correct answer. 
-  c. Expected results-The CAPTCHA was checked for proper functioning and it worked. The password was in encrypted format   
+  b. Steps- Verizon’s SSL/HTTPS connection was checked by looking at CAPTCHA. Typing in the correct answer.  3.Ensuring the HTTPS connection on site. 
+  4. Password  and credit  card encrypted. 
+  c. Expected results-The CAPTCHA was checked for proper functioning and it worked. The password and credit card was was in encrypted format   
   
   6. Mobile Responsiveness Verizon site was tested using Google's Mobile-Friendly Test. 
  a. Preconditions- Mobile Responsiveness Verizon site was tested using Google's Mobile-Friendly Test on several mobile devices.  The test limit was ten minutes.
-  b. Steps- Google’s Mobile-Friendly Test was used on an Android phone.  Mobile Responsiveness on the Verizon site was tested to see if the layout was presentable.  
+  b. Steps-   Step one was Google’s Mobile-Friendly Test was used on several android  phones.  Step two was Mobile Responsiveness on the Verizon site
+  was tested to see if the layout was presentable.  
   c. Expected results- Mobile Responsiveness testing on the Verizon site indicated the layout was up to standards and the links worked.
   
   7. Accessibility on the Verizon site was tested against the Web Content Accessibility Guidelines (WCAG).   
@@ -64,7 +66,7 @@ a. Preconditions- The preconditions for the Verizon functionality testing were t
  
 9.  Payment and promo code. Payment and promo code on Verizon were tested to make sure they're working.
 a. Preconditions- The preconditions of the payment and valid promo code were tested was to identify the payment accepted and discount applied. The time limit was ten minutes.
-  b. Steps -The steps of the payment gateways testing were entering credit cards numbers and codes. 
+  b. Steps -The first step was to acurately enter three major credit cards.  The second step was to enter wrong data into credit card data. The third step is to add valid promo codes.  
   c. Expected results- The expected results of the payment gateways testing is that it passed but the code didn’t allow for the discount, so I generated a bug report and included it).
  
 10. UI Testing. UI testing on the Verizon site included checking design consistency, screen resolutions and browsers.
@@ -88,15 +90,56 @@ a. Preconditions- The preconditions of UI testing are setting a minimum standard
   
                             # 2A.  TEST EXECUTION
 
-Test Form   https://sway.office.com/wPGb2CIaQVvXvN66?ref=Link
+https://sway.office.com/weqHp0lUs6q2K6pF?ref=Link
 
-Test Case Description	 Verizon Checkout 
+
+										
+QA Tester’s Log
+1.	 Tested on 
+
+		Test Case Description	 Verizon Checkout 
 Created By	Teresa Hawkins			Organization	Code Louisville
 										
 QA Tester’s Log
 1.	 Tested on 	
 				
 										
+Tester's Name 	Teresa Hawkins	Date Tested	9/27/2022
+12:57 p.m EST	Test Case (Pass/Fail/Not Executed)	Pass
+Test Step	Test 	Expected Result	Actual Result	Pass/Fail
+				
+1	Navigate to http://verizon.com	Site should open	As Expected	Pass
+2	Enter Userid & Password	Credential can be entered	As Expected	Pass
+3	Cookie Testing	Customer is logged in	As Expected	Pass
+4	 Link Testing-	 Links worked	As Expected	 Pass
+ 5	 Website Security	 Captcha worked	As Expected	 Pass
+ 6
+	 Mobile Responsiveness	 Mobile site worked	As Expected	 Pass
+ 7	 Accessibility	Followed Guidelines 	As Expected	 Pass
+ 8
+	 Functionality Testing	 Functionality worked	As Expected	 Pass
+ 9	 Payment 	 Payment Gateway worked	As Expected/ but promo code failed so conditional 	 Pass (After bug fix)
+ 10
+	 UI Testing	 UI Testing worked	As Expected	 Pass
+
+
+Test 	Steps 
+	
+1. Navigate to http://verizon.com	 Step one is the HTML/CSS Validation was checked by the HTML Validator extension for Chrome.  Step two, it noted if there were any problems.  Step three, the possible problems would be noted.
+2. Enter Userid & Password	1. I inputted several emails some valid and invalid.   2. I inputted several passwords some valid and some invalid.
+3. Cookie Testing	Step one, using Chrome Cookie Manager the site was tested with cookies disabled.  Step two, using Chrome Cookie Manager the site was tested with cookies enabled.
+4. Link Testing-	 On Google Analytics account click on behavior tab.  Then select “site content.  Then go to page and then apply. Several key links were also tested to ensure goes to the proper page and if there were broken links
+ 5. Website Security	 1. Verizon’s SSL/HTTPS connection was checked by looking at CAPTCHA  2. Typing in the correct answer. 3.Ensuring the HTTPS connection on site.  4. Password and credit card encrypted.
+ Mobile Responsiveness	Step one was Google’s Mobile-Friendly Test was used on several android phones.  Step two was Mobile Responsiveness on the Verizon site was tested to see if the layout was presentable.
+ 7.  Accessibility	 1. I checked for clear page titles. Step two, I tested for identified images that met guidelines. Step three, I checked to see if heading levels were correct. Step four, I checked for font size. Step five, I checked for color contrast.
+ 8. Functionality Testing
+ Verizon functionality testing was performed, and the following steps were done.  Step one, test for dropdowns.   Step two test for buttons.   Step three test for process flow.
+ 9. Payment and Disounts	 The first step was to accurately enter three major credit cards.  The second step was to enter wrong data into credit card data. The third step is to add valid promo codes.  
+ 10.  UI Testing
+	 UI testing on the Verizon site included checking design consistency, screen resolutions and browsers. The three components were broken down and analyzed.   Step one, the design was analyzed to see if it reflected Verizon’s overall vision, design color and logo.  Step two, the screen resolution should be clear enough for all viewers. Step three, several browsers were tested: Chrome, Explorer, Safari, and Firefox.   
+
+
+											
 Tester's Name 	Teresa Hawkins	Date Tested	9/27/2022
 12:57 p.m EST	Test Case (Pass/Fail/Not Executed)	Pass
 Test Step	Test 	Expected Result	Actual Result	Pass/Fail
