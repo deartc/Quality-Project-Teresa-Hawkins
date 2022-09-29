@@ -44,8 +44,7 @@ a. Preconditions- Chrome Cookie Manager was installed to test for cookies’ sec
   
   5. Website Security (Black box Testing)- Verizon’s SSL/HTTPS connection was tested to make sure it's working properly.  
  a. Preconditions- Verizon’s SSL/HTTPS connection was checked ensuring that the HTTPS connection was present. The time limit was ten minutes. The password should be in encrypted format.  It should not allow invalid users. 
-  b. Steps- Verizon’s SSL/HTTPS connection was checked by looking at CAPTCHA. Typing in the correct answer.  3.Ensuring the HTTPS connection on site. 
-  4. Password  and credit  card encrypted. 
+  b. Steps- Verizon’s SSL/HTTPS connection was checked by looking at CAPTCHA. Step one is typing in the correct answer. Step two is ensuring the HTTPS connection on site. Step three is  ensure that password  and credit  card encrypted.
   c. Expected results-The CAPTCHA was checked for proper functioning and it worked. The password and credit card was was in encrypted format   
   
   6. Mobile Responsiveness Verizon site was tested using Google's Mobile-Friendly Test. 
