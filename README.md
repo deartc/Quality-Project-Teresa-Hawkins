@@ -23,7 +23,7 @@ Exclusions:   The testing was restricted to this major feature, and I did not in
 Verizon was validated by entering its URL and checked by the HTML Validator extension for Chrome. 
 a. Preconditions- The time limit was ten minutes. The precondition for HTML/CSS Validation is that I used the URL listed as the official Verizon HTML.
 b. Steps- Step one is the HTML/CSS Validation was checked by the HTML Validator extension for Chrome.  Step two, it noted if there were any problems.  Step three, the possible problems would be noted.   
- c. Expected results-The expected results for HTML/CSS Validation is that it passed.  I had no problems navigating.
+c. Expected results-The expected results for HTML/CSS Validation is that it passed.  I had no problems navigating.
   
 2. Form Input and Validation (Black Box Testing) 
   Verizon site was checked for data input validity and what happens when there are invalid inputs. 
@@ -43,8 +43,8 @@ c.Expected results- Cookies was tested with cookies disabled and cookies enabled
   c. Expected results- Verizon key links go to the proper page and there were no broken links.
   
   5. Website Security (Black box Testing)- Verizon’s SSL/HTTPS connection was tested to make sure it's working properly.  
- a. Preconditions- Verizon’s SSL/HTTPS connection was checked ensuring that the HTTPS connection was present. The time limit was ten minutes. The password should be in encrypted format.  It should not allow invalid users. 
-  b. Steps- Verizon’s SSL/HTTPS connection was checked by looking at CAPTCHA. Step one is typing in the correct answer. Step two is ensuring the HTTPS connection on site. Step three is  ensure that password  and credit  card encrypted.
+ a. Preconditions- Verizon’s SSL/HTTPS connection was checked ensuring that the HTTPS connection was present. The time limit was ten minutes. The password should be   in encrypted format.  It should not allow invalid users. 
+  b. Steps- Verizon’s SSL/HTTPS connection was checked by looking at CAPTCHA. Step one is typing in the correct answer. Step two is ensuring the HTTPS connection on    site. Step three is  ensure that password  and credit  card encrypted.
   c. Expected results-The CAPTCHA was checked for proper functioning and it worked. The password and credit card was was in encrypted format   
   
   6. Mobile Responsiveness Verizon site was tested using Google's Mobile-Friendly Test. 
@@ -55,12 +55,12 @@ c.Expected results- Cookies was tested with cookies disabled and cookies enabled
   
   7. Accessibility on the Verizon site was tested against the Web Content Accessibility Guidelines (WCAG).   
    a. Preconditions- WCAG list of web accessibility evaluation tools were used to test Verizon site. The time limit was ten minutes. 
-  b. Steps- Accessibility on the Verizon site was tested against the Web Content Accessibility Guidelines (WCAG). Step one, I checked for clear page titles.   Step two, I tested for identified images that met guidelines.  Step three, I checked to see if heading levels were correct. Step four, I checked for font size.   Step five, I checked for color contrast.  
+  b. Steps- Accessibility on the Verizon site was tested against the Web Content Accessibility Guidelines (WCAG). Step one, I checked for clear page titles.   Step   two, I tested for identified images that met guidelines.  Step three, I checked to see if heading levels were correct. Step four, I checked for font size.   Step   five, I checked for color contrast.  
   c. Expected results- Accessibility testing on the Verizon site against the Web Content Accessibility Guidelines (WCAG) passed.
   
   8.  Functionality Testing.  Verizon functionality testing was performed, and the following were tested: drop-downs, buttons, and process flow.
-a. Preconditions- The preconditions for the Verizon functionality testing were to identify the dropdowns, buttons, and process flow. The time limit was ten minutes.
-  b. Steps- Verizon functionality testing was performed, and the following steps were done.  Step one, test for dropdowns.   Step two test for buttons.   Step three test for process flow. 
+  a. Preconditions- The preconditions for the Verizon functionality testing were to identify the dropdowns, buttons, and process flow. Ten  minutes was limit.
+  b. Steps- Verizon functionality testing was performed, and the following steps were done.  Step one, test for dropdowns.   Step two test for buttons.   Step three   test for process flow. 
   c. Expected results- Verizon functionality passed the following tests: drop-downs, buttons, and process flow. 
  
 9.  Payment and promo code. Payment and promo code on Verizon were tested to make sure they're working.
