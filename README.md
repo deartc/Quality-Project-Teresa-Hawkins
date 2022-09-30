@@ -10,12 +10,13 @@ To run the project do the following: Clone github.com/deartc/Quality-Project-Ter
 Introduction
  
  
-Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. One of the main reasons is the website tries to engage customers. For this project, I have analyzed the hypothetical updated feature in the Verizon checkout.   I have completed the following: 1: a test presentation on the Verizon site. I have attached the test plan detailing steps I took. 2A: manual test execution I am presenting the results of my manual test execution. 2B. I am also attaching a bug report.  I did the project with Microsoft Sway as well as a plain text version.
+Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. One of the main reasons is the website tries to engage customers. For this project, I have analyzed the hypothetical updated feature in the Verizon checkout. I have completed the following: 1: a test presentation on the Verizon site. I have attached the test plan detailing steps I took. 2A: manual test execution I am presenting the results of my manual test execution. 2B. I am also attaching a bug report.  I did the project with Microsoft Sway as well as a plain text version.
  
  
 Scope: 
  
 Inclusions: The testing primarily dealt with the checkout process.  I identified ten tests I performed on the websites which falls into one of these major categories: critical path, regression, non-functional. l included all the necessary components of each test case (preconditions, steps, and expected results.) In each test the time limit was ten minutes.
+
 Exclusions:   The testing was restricted to this major feature, and I did not include more than ten tests, although other tests could have been performed. The time limit was set by project.
  
 1. HTML/CSS Validation 
@@ -106,31 +107,51 @@ Tester's Name 	Teresa Hawkins	Date Tested	9/27/2022
 Test Step	Test 	Expected Result	Actual Result	Pass/Fail
 				
 1	Navigate to http://verizon.com	Site should open	As Expected	Pass
+
 2	Enter Userid & Password	Credential can be entered	As Expected	Pass
+
 3	Cookie Testing	Customer is logged in	As Expected	Pass
+
 4	 Link Testing-	 Links worked	As Expected	 Pass
+
 5	 Website Security	 Captcha worked	As Expected	 Pass
+
 6       Mobile Responsiveness	 Mobile site worked	As Expected	 Pass
+
 7	 Accessibility	Followed Guidelines 	As Expected	 Pass
+
 8        Functionality Testing	 Functionality worked	As Expected	 Pass
+
 9	 Payment 	 Payment Gateway worked	As Expected/ but promo code failed so conditional 	 Pass (After bug fix)
+
 10       UI Testing	 UI Testing worked	As Expected	 Pass
+
 
 
 Test 	Steps 
 	
 1. Navigate to http://verizon.com	 Step one is the HTML/CSS Validation was checked by the HTML Validator extension for Chrome.  Step two, it noted if there were any problems.  Step three, the possible problems would be noted.
+
 2. Enter Userid & Password,  Step one, I inputted several emails some valid and invalid. Step two, I inputted several passwords some valid and some invalid.
+
 3. Cookie Testing	Step one, using Chrome Cookie Manager the site was tested with cookies disabled.  Step two, using Chrome Cookie Manager the site was tested with cookies enabled.
+
 4. Link Testing-	 On Google Analytics account click on behavior tab.  Then select “site content.  Then go to page and then apply. Several key links were also tested to ensure goes to the proper page and if there were broken links
- 5. Website Security	Step one was Verizon’s SSL/HTTPS connection was checked by looking at CAPTCHA.  Step two is typing in the correct answer. Step three is ensuring the HTTPS connection on site.  Step four is word and credit card encrypted.
+
+5. Website Security	Step one was Verizon’s SSL/HTTPS connection was checked by looking at CAPTCHA.  Step two is typing in the correct answer. Step three is ensuring the HTTPS connection on site.  Step four is word and credit card encrypted.
+
 6.  Mobile Responsiveness	Step one was Google’s Mobile-Friendly Test was used on several android phones.  Step two was Mobile Responsiveness on the Verizon site was tested to see if the layout was presentable.
- 7.  Accessibility	 1. I checked for clear page titles. Step two, I tested for identified images that met guidelines. Step three, I checked to see if heading levels were correct. Step four, I checked for font size. Step five, I checked for color contrast.
+
+7.  Accessibility	 1. I checked for clear page titles. Step two, I tested for identified images that met guidelines. Step three, I checked to see if heading levels were correct. Step four, I checked for font size. Step five, I checked for color contrast.
+ 
+ 
  8. Functionality Testing
  Verizon functionality testing was performed, and the following steps were done.  Step one, test for dropdowns.   Step two test for buttons.   Step three test for process flow.
- 9. Payment and Disounts	 The first step was to accurately enter three major credit cards.  The second step was to enter wrong data into credit card data. The third step is to add valid promo codes.  
- 10.  UI Testing
-	 UI testing on the Verizon site included checking design consistency, screen resolutions and browsers. The three components were broken down and analyzed.   Step one, the design was analyzed to see if it reflected Verizon’s overall vision, design color and logo.  Step two, the screen resolution should be clear enough for all viewers. Step three, several browsers were tested: Chrome, Explorer, Safari, and Firefox.   
+
+9. Payment and Disounts	 The first step was to accurately enter three major credit cards.  The second step was to enter wrong data into credit card data. The third step is to add valid promo codes.  
+
+10.  UI Testing. 
+     UI testing on the Verizon site included checking design consistency, screen resolutions and browsers. The three components were broken down and analyzed.   Step one, the design was analyzed to see if it reflected Verizon’s overall vision, design color and logo.  Step two, the screen resolution should be clear enough for all viewers. Step three, several browsers were tested: Chrome, Explorer, Safari, and Firefox.   
 
 
 											
@@ -138,7 +159,8 @@ Tester's Name 	Teresa Hawkins	Date Tested	9/27/2022
 12:57 p.m EST	Test Case (Pass/Fail/Not Executed)	Pass
 Test Step	Test 	Expected Result	Actual Result	Pass/Fail
 				
-1.	Navigate to http://verizon.com	Site should open	As Expected/Verizon report is attached	Pass
+
+1.	Navigate to http://verizon.com	Site should open	As Expected	Pass
 
 
 2.	Enter Userid & Password	Credential can be entered	As Expected	Pass
@@ -147,12 +169,19 @@ Test Step	Test 	Expected Result	Actual Result	Pass/Fail
 
 4.	 Link Testing-	 Links worked	As Expected	 Pass
 
- 5.	 Website Security	 Captcha worked	As Expected	 Pass
+
+5.	 Website Security	 Captcha worked	As Expected	 Pass
+ 
  6.	 Mobile Responsiveness	 Mobile site worked	As Expected	 Pass
+ 
  7.	 Accessibility	Followed Guidelines 	As Expected	 Pass
+ 
  8.	 Functionality Testing	 Functionality worked	As Expected	 Pass
- 9.	 Payment Gateways	 Payment Gateway worked	As Expected	 Pass
- 10.	 UI Testing  UI Worked As Expected Pass              
+
+
+9.	 Payment Gateways	 Payment Gateway worked	As Expected	 Pass
+
+10.	 UI Testing  UI Worked As Expected Pass              
 
 
 
