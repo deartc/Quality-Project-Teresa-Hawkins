@@ -10,7 +10,7 @@ To run the project do the following: Clone github.com/deartc/Quality-Project-Ter
 Introduction
  
  
-Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. One of the main reasons is the website tries to engage customers. For this project, I have analyzed the hypothetical updated feature in the Verizon checkout. I have completed the following: 1: a test presentation on the Verizon site. I have attached the test plan detailing steps I took. 2A: manual test execution I am presenting the results of my manual test execution. 2B. I am also attaching a bug report.  I did the project with Microsoft Sway as well as a plain text version.
+Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. One of the main reasons is the website tries to engage customers. For this project, I have analyzed the hypothetical updated feature in the Verizon checkout. I have completed the following: 1: a test presentation on the Verizon site. I have attached the test plan detailing steps I took. 2A:  I am presenting the results of my manual test execution. 2B. I am also attaching a bug report.  I did the project with Microsoft Sway as well as a markup text version.
  
  
 Scope: 
