@@ -101,7 +101,7 @@ QA Tester’s  Summary Log (page 1)
 		Test Case Description	 Verizon Checkout 
 
 
-										
+QA Tester’s Summary Log (page 1)										
 Tester's Name 	Teresa Hawkins	Date Tested	9/27/2022
 12:57 p.m EST	Test Case 	Pass
 Test Step	Test 		Pass/Fail
