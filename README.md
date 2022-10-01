@@ -96,17 +96,15 @@ a. Preconditions- The preconditions of UI testing are setting a minimum standard
 
 										
 QA Tester’s  Summary Log (page 1)
-1.	 Tested on 
+ 
 
 		Test Case Description	 Verizon Checkout 
-Created By	Teresa Hawkins			Organization	Code Louisville
-										
-	
-				
+
+
 										
 Tester's Name 	Teresa Hawkins	Date Tested	9/27/2022
-12:57 p.m EST	Test Case (Pass/Fail/Not Executed)	Pass
-Test Step	Test 	Expected Result	Actual Result	Pass/Fail
+12:57 p.m EST	Test Case 	Pass
+Test Step	Test 		Pass/Fail
 				
 1	Navigate to http://verizon.com	Site should open	As Expected	Pass
 
@@ -124,7 +122,7 @@ Test Step	Test 	Expected Result	Actual Result	Pass/Fail
 
 8        Functionality Testing	 Functionality worked	As Expected	 Pass
 
-9	 Payment 	 Payment Gateway worked	As Expected/ but promo code failed so conditional 	 Pass (After bug fix)
+9	 Payment 	 Payment worked	       As Expected       Pass *but promo code failed so conditional 	 Pass (After bug fix)
 
 10       UI Testing	 UI Testing worked	As Expected	 Pass
 
