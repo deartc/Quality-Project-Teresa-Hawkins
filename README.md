@@ -94,11 +94,7 @@ a. Preconditions- The preconditions of UI testing are setting a minimum standard
 
 
 
-										
-QA Tester’s  Summary Log (page 1)
- 
 
-		Test Case Description	 Verizon Checkout 
 
 
 QA Tester’s Summary Log (page 1)										
