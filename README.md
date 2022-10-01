@@ -130,7 +130,7 @@ Test Step	Test 	Expected Result	Actual Result	Pass/Fail
 
 
 
-                                                  QA Tester’s  Step Log (page 2)
+                                                   # 2A.  TEST EXECUTION (Page Two)
 
 STEP LOG
 Test 	Steps 
@@ -188,10 +188,10 @@ Step two, the screen resolution should be clear enough for all viewers.
 Step three, several browsers were tested: Chrome, Explorer, Safari, and Firefox.   
 
 
-https://sway.office.com/iwzfKDyrqIs2oDxY?ref=Link 
+ 
                             
 			    
-			     #2B. BUG REPORT FORM    
+			             #2B. BUG REPORT FORM    
 
 'BUG REPORT FORM
 
@@ -230,7 +230,8 @@ Every Time    X
 Status: Supervison fixed on 9/27 at 6:15 p.m.  EST
  
  	 	 	 	 	 
- 
+  SWAY BUG REPORT: 
+  https://sway.office.com/iwzfKDyrqIs2oDxY?ref=Link
 
  
  
