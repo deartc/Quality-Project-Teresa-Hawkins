@@ -93,7 +93,7 @@ https://sway.office.com/weqHp0lUs6q2K6pF?ref=Link
 
 
 										
-QA Tester’s Log
+QA Tester’s  Summary Log (page 1)
 1.	 Tested on 
 
 		Test Case Description	 Verizon Checkout 
@@ -128,6 +128,7 @@ Test Step	Test 	Expected Result	Actual Result	Pass/Fail
 
 
 
+QA Tester’s  Step Log (page 2)
 Test 	Steps 
 	
 1. Navigate to http://verizon.com	 
@@ -182,43 +183,6 @@ The third step is to add valid promo codes.
 Step one, the design was analyzed to see if it reflected Verizon’s overall vision, design color and logo. 
 Step two, the screen resolution should be clear enough for all viewers. 
 Step three, several browsers were tested: Chrome, Explorer, Safari, and Firefox.   
-
-
-
-
-
-
-Tester's Name 	Teresa Hawkins	Date Tested	9/27/2022
-12:57 p.m EST	Test Case (Pass/Fail/Not Executed)	Pass
-Test Step	Test 	Expected Result	Actual Result	Pass/Fail
-				
-
-1.	Navigate to http://verizon.com	Site should open	As Expected	Pass
-
-
-2.	Enter Userid & Password	Credential can be entered	As Expected	Pass
-
-3.	Cookie Testing	Customer is logged in	As Expected	Pass
-
-4.	 Link Testing-	 Links worked	As Expected	 Pass
-
-
-5.	 Website Security	 Captcha worked	As Expected	 Pass
- 
- 6.	 Mobile Responsiveness	 Mobile site worked	As Expected	 Pass
- 
- 7.	 Accessibility	Followed Guidelines 	As Expected	 Pass
- 
- 8.	 Functionality Testing	 Functionality worked	As Expected	 Pass
-
-
-9.	 Payment Gateways	 Payment Gateway worked	As Expected	 Pass
-
-10.	 UI Testing  UI Worked As Expected Pass              
-
-
-
-
 
 
 https://sway.office.com/iwzfKDyrqIs2oDxY?ref=Link 
