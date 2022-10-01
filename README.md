@@ -73,7 +73,7 @@ a. Preconditions- The preconditions of UI testing are setting a minimum standard
   b. Steps- UI testing on the Verizon site included checking design consistency, screen resolutions and browsers. The three components were broken down and analyzed.   Step one, the design was analyzed to see if it reflected Verizon’s overall vision, design color and logo.  Step two, the screen resolution should be clear enough for all viewers. Step three, several browsers were tested: Chrome, Explorer, Safari, and Firefox.   
   c. Expected results- The UI testing on the Verizon site passed in relation to   design consistency, screen resolutions and browsers.
   
- SWAY PRESENTATION   https://sway.office.com/lWoyBpPeNBiP3C2Y
+ SWAY PRESENTATION:   https://sway.office.com/lWoyBpPeNBiP3C2Y
               `
 		  
 		  
@@ -89,9 +89,9 @@ a. Preconditions- The preconditions of UI testing are setting a minimum standard
   
 
   
-                            # 2A.  TEST EXECUTION
+                            # 2A.  TEST EXECUTION (Page One)
 
-https://sway.office.com/weqHp0lUs6q2K6pF?ref=Link
+
 
 
 										
@@ -130,7 +130,9 @@ Test Step	Test 	Expected Result	Actual Result	Pass/Fail
 
 
 
-QA Tester’s  Step Log (page 2)
+                                                  QA Tester’s  Step Log (page 2)
+
+STEP LOG
 Test 	Steps 
 	
 1. Navigate to http://verizon.com	 
