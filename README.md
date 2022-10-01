@@ -80,9 +80,9 @@ a. Preconditions- The preconditions of UI testing are setting a minimum standard
 		
 
  
-                                                          VERIZON PRESENTATION
+                                                        SWAY PRESENTATION   https://sway.office.com/lWoyBpPeNBiP3C2Y
 
-  https://sway.office.com/lWoyBpPeNBiP3C2Y
+
   
   
 
@@ -168,11 +168,10 @@ Step three, I checked to see if heading levels were correct.
 Step four, I checked for font size. 
 Step five, I checked for color contrast.
  
- 
- 8. Functionality Testing
-  Step one, test for dropdowns.  
-  Step two test for buttons.   
-  Step three test for process flow.
+8. Functionality Testing
+Step one, test for dropdowns.  
+Step two test for buttons.   
+Step three test for process flow.
 
 9. Payment and Disounts	 
 Enter three major credit cards correctly. 
