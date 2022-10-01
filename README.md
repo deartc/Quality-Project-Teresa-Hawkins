@@ -130,31 +130,64 @@ Test Step	Test 	Expected Result	Actual Result	Pass/Fail
 
 Test 	Steps 
 	
-1. Navigate to http://verizon.com	 Step one is the HTML/CSS Validation was checked by the HTML Validator extension for Chrome.  Step two, it noted if there were any problems.  Step three, the possible problems would be noted.
+1. Navigate to http://verizon.com	 
+Step one is the HTML/CSS Validation was checked by the HTML Validator extension for Chrome.  
+Step two, it noted if there were any problems. 
+Step three, the possible problems would be noted.
 
-2. Enter Userid & Password,  Step one, I inputted several emails some valid and invalid. Step two, I inputted several passwords some valid and some invalid.
 
-3. Cookie Testing	Step one, using Chrome Cookie Manager the site was tested with cookies disabled.  Step two, using Chrome Cookie Manager the site was tested with cookies enabled.
+2. Enter Userid & Password,  
+Step one, I inputted several emails some valid and invalid. 
+Step two, I inputted several passwords some valid and some invalid.
 
-4. Link Testing-	 On Google Analytics account click on behavior tab.  Then select “site content.  Then go to page and then apply. Several key links were also tested to ensure goes to the proper page and if there were broken links
 
-5. Website Security	Step one was Verizon’s SSL/HTTPS connection was checked by looking at CAPTCHA.  Step two is typing in the correct answer. Step three is ensuring the HTTPS connection on site.  Step four is word and credit card encrypted.
+3. Cookie Testing	
+Step one, using Chrome Cookie Manager the site was tested with cookies disabled.  
+Step two, using Chrome Cookie Manager the site was tested with cookies enabled.
 
-6.  Mobile Responsiveness	Step one was Google’s Mobile-Friendly Test was used on several android phones.  Step two was Mobile Responsiveness on the Verizon site was tested to see if the layout was presentable.
+4. Link Testing-	 
+On Google Analytics account click on behavior tab.  Then select “site content. 
+Then go to page and then apply. 
+Several key links were also tested to ensure goes to the proper page and if there were broken links
 
-7.  Accessibility	 1. I checked for clear page titles. Step two, I tested for identified images that met guidelines. Step three, I checked to see if heading levels were correct. Step four, I checked for font size. Step five, I checked for color contrast.
+5. Website Security	
+Step one was Verizon’s SSL/HTTPS connection was checked by looking at CAPTCHA. 
+Step two is typing in the correct answer. 
+Step three is ensuring the HTTPS connection on site.  
+Step four is word and credit card encrypted.
+
+6. Mobile Responsiveness	
+Step one was Google’s Mobile-Friendly Test was used on several android phones. 
+Step two was Mobile Responsiveness on the Verizon site was tested to see if the layout was presentable.
+
+7.  Accessibility	
+I checked for clear page titles. 
+Step two, I tested for identified images that met guidelines. 
+Step three, I checked to see if heading levels were correct. 
+Step four, I checked for font size. 
+Step five, I checked for color contrast.
  
  
  8. Functionality Testing
- Verizon functionality testing was performed, and the following steps were done.  Step one, test for dropdowns.   Step two test for buttons.   Step three test for process flow.
+  Step one, test for dropdowns.  
+  Step two test for buttons.   
+  Step three test for process flow.
 
-9. Payment and Disounts	 The first step was to accurately enter three major credit cards.  The second step was to enter wrong data into credit card data. The third step is to add valid promo codes.  
+9. Payment and Disounts	 
+Enter three major credit cards correctly. 
+The second step was to enter wrong data into credit card data.
+The third step is to add valid promo codes.  
 
-10.  UI Testing. 
-     UI testing on the Verizon site included checking design consistency, screen resolutions and browsers. The three components were broken down and analyzed.   Step one, the design was analyzed to see if it reflected Verizon’s overall vision, design color and logo.  Step two, the screen resolution should be clear enough for all viewers. Step three, several browsers were tested: Chrome, Explorer, Safari, and Firefox.   
+10.  UI Testing. UI testing on the Verizon site included checking design consistency, screen resolutions and browsers. 
+Step one, the design was analyzed to see if it reflected Verizon’s overall vision, design color and logo. 
+Step two, the screen resolution should be clear enough for all viewers. 
+Step three, several browsers were tested: Chrome, Explorer, Safari, and Firefox.   
 
 
-											
+
+
+
+
 Tester's Name 	Teresa Hawkins	Date Tested	9/27/2022
 12:57 p.m EST	Test Case (Pass/Fail/Not Executed)	Pass
 Test Step	Test 	Expected Result	Actual Result	Pass/Fail
