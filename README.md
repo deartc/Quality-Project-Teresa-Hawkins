@@ -2,8 +2,7 @@
 
  QA Testing Project Instructions:
 
-To run the project do the following: Clone github.com/deartc/Quality-Project-Teresa-Hawkins. (Any other instructions I need to include goes here). The extensions used were C# and Net.  The NuGets used were xunit and others.  
-
+To run the project do the following: Clone github.com/deartc/Quality-Project-Teresa-Hawkins. 
 
     #1: Test Presentation
  
@@ -249,7 +248,11 @@ Status: Supervison fixed on 9/27 at 6:15 p.m.  EST
    
    
             #3.  UNIT TEST PROJECT:
+	    
+	    
    
+To run the project do the following: Clone github.com/deartc/Quality-Project-Teresa-Hawkins. (Any other instructions I need to include goes here). The extensions used were C# and Net.  The NuGets used were xunit and others.  
+
 
 Requirements of classes completion: 
 1. On the Vehicle class, add unit tests  and refactor where necessary.
@@ -259,7 +262,7 @@ Requirements of classes completion:
 
 
 
-Unit tests requirementss:
+Unit tests requirements:
 1.	parameterless constructor -object of type Vehicle, 
 2.	Vehicle, -public properties to the provided values.
 3.	 parameterless AddGas method fills the gas tank to 100% of its capacity
