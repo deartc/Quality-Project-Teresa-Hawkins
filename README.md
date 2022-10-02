@@ -136,189 +136,109 @@ Test 	Steps
 
 
 
-HTML Validation 
+1. HTML Validation 
 
-Validate extension for Chrome. 
-
-Navigate to http://verizon.com 
-
-Note problems. 
+	Validate extension for Chrome. 
+	Navigate to http://verizon.com 
+	Note problems. 
 
  
 
-Form Input 
+2. Form Input 
 
-Enter Userid & Password, 
-Enter emails some valid and invalid.  
-
-Enter passwords some valid and some invalid. 
+	Enter Userid & Password,
+	Enter emails some valid and invalid
+	Enter passwords some valid and some invalid. 
 
  
 
  
 
-Cookie Testing  
+3. Cookie Testing  
 
-Using Chrome Cookie Managers test with cookies disabled. 
-Using Chrome Cookie Manager test with cookies enabled. 
-
- 
-
-Link Testing 
-
- On Google Analytics account click on behavior tab. 
-Select “site content. 
-
- Press apply. 
-
-Check broken links. 
+	Using Chrome Cookie Managers test with cookies disabled. 
+	Using Chrome Cookie Manager test with cookies enabled. 
 
  
 
-Website Security Check 
+4. Link Testing 
+
+	 Click on Google Analytics account
+	 click on behavior tab. 
+	Select “site content. 			
+	Press apply. 
+	Check broken links. 
+
+ 
+
+5. Website Security Check 
 
  SSL/HTTPS connection by CAPTCHA.  
-
-typing in the correct answer.  
-
-ensure the HTTPS connection on site. 
-password and credit card encrypted. 
+	typing in the correct answer.  
+	ensure the HTTPS connection on site. 
+	password and credit card encrypted. 
 
  
 
-Mobile Responsiveness 
 
- Mobile-Friendly Test on android phones.  
-
-Mobile Responsiveness tested for layout 
+6. Mobile Responsiveness 
+	 Mobile-Friendly Test on android phones.  
+	Mobile Responsiveness tested for layout 
 
  
 
  
 
-Accessibility 
+7. Accessibility 
 
- test for identified images. 
+	 test for identified images. 
 
- check correct heading levels  
+	 check correct heading levels  
 
-check for color contrast.  
+	check for color contrast.  
 
-check for font size. 
+	check for font size. 
 
-check for clear page titles 
-
- 
-
-Functionality Testing  
-
-test for dropdowns. 
-
-test for buttons. 
-
-test for process flow. 
+	check for clear page titles 
 
  
 
-Payment and Discounts  
 
-Enter three major credit cards correctly. 
+8. Functionality Testing  
 
- enter wrong data into credit card data.  
+	test for dropdowns. 
 
- add valid promo codes. 
+	test for buttons. 
+
+	test for process flow. 
 
  
 
-UI Testing.  
+9. Payment and Discounts  
 
-the design was analyzed to see if it reflected overall vision.  
+	Enter three major credit cards correctly. 
 
-the screen resolution should be clear enough for all viewers.  
+ 	enter wrong data into credit card data.  
 
-several browsers were tested: Chrome, Explorer, Safari, and Firefox. 
+ 	add valid promo codes. 
+
+ 
+
+10.UI Testing.  
+
+	analyze site for overall vision.  
+
+	the screen resolution should be clear enough for all viewers.  
+
+	several browsers were tested: Chrome, Explorer, Safari, and Firefox. 
 
  
 	
-1. Navigate to http://verizon.com	 
-Check  HTML Validator extension for Chrome.  
-Note problems. 
 
-
-
-
-
-2. Enter Userid & Password,  
-Enter emails some valid and invalid. 
-Enter passwords some valid and some invalid.
-
-
-
-
-3. Cookie Testing	
-Using Chrome Cookie Managers test with cookies disabled.  
- Using Chrome Cookie Manager test with cookies enabled.
  
  
 
-
-4. Link Testing	 
-On Google Analytics account click on behavior tab.  
-Select “site content. 
-Press apply. 
-Check  broken links
-
-
-
-
-5. Website Security	
-Check SSL/HTTPS connection by  CAPTCHA.
-typing in the correct answer. 
-ensurethe HTTPS connection on site.  
-password and credit card encrypted.
-
-
-
-
-
-6. Mobile Responsiveness	
- Mobile-Friendly Test  on android phones. 
- Mobile Responsiveness tested for layout
  
- 
-
-
-7.  Accessibility	
-checked for clear page titles. 
-tested for identified images 
-checked correct heading levels 
-checked for color contrast.
-checked for font size. 
-
-
-
-
-8. Functionality Testing
-test for dropdowns.  
- test for buttons.   
- test for process flow.
- 
- 
-
-
-9. Payment and Disounts	 
-Enter three major credit cards correctly. 
- enter wrong data into credit card data.
- add valid promo codes.  
- 
- 
-
-
-10.  UI Testing. 
-the design was analyzed to see if it reflected overall vision.
-the screen resolution should be clear enough for all viewers. 
-several browsers were tested: Chrome, Explorer, Safari, and Firefox.  
-
 
 
 
