@@ -165,17 +165,16 @@ password and credit card encrypted.
 
 
 6. Mobile Responsiveness	
- Mobile-Friendly Test was used on android phones. 
- Mobile Responsiveness  was tested for layout
+ Mobile-Friendly Test  on android phones. 
+ Mobile Responsiveness tested for layout
 
 
 7.  Accessibility	
 checked for clear page titles. 
-tested for identified images that met guidelines. 
-checked to see if heading levels were correct. 
-checked for font size. 
+tested for identified images 
+checked correct heading levels 
 checked for color contrast.
- 
+checked for font size. 
 
 
 8. Functionality Testing
