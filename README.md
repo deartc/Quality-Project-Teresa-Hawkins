@@ -161,10 +161,9 @@ Test 	Steps
  
 
 4. Link Testing 
-
 	 Click on Google Analytics account
-	 click on behavior tab. 
-	Select “site content. 			
+	click on behavior tab. 
+	Select “site content.
 	Press apply. 
 	Check broken links. 
 
