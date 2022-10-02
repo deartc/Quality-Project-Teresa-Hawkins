@@ -190,15 +190,10 @@ Test 	Steps
  
 
 7. Accessibility 
-
-	 test for identified images. 
-
-	 check correct heading levels  
-
-	check for color contrast.  
-
+	test for identified images. 
+	check correct heading levels  
+	check for color contrast.  		
 	check for font size. 
-
 	check for clear page titles 
 
  
