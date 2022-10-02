@@ -154,8 +154,7 @@ Test 	Steps
 
  
 
-3. Cookie Testing  
-
+3. Cookie Test
 	Using Chrome Cookie Managers test with cookies disabled. 
 	Using Chrome Cookie Manager test with cookies enabled. 
 
@@ -200,11 +199,8 @@ Test 	Steps
 
 
 8. Functionality Testing  
-
 	test for dropdowns. 
-
 	test for buttons. 
-
 	test for process flow. 
 
  
@@ -222,21 +218,8 @@ Test 	Steps
 10.UI Testing.  
 
 	analyze site for overall vision.  
-
 	the screen resolution should be clear enough for all viewers.  
-
 	several browsers were tested: Chrome, Explorer, Safari, and Firefox. 
-
- 
-	
-
- 
- 
-
- 
-
-
-
 
 SWAY TEST LOG:
 https://sway.office.com/y1dCb4mJlBMo9KyO?ref=Link&loc=play
