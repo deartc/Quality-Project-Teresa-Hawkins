@@ -157,16 +157,16 @@ Check  broken links
 
 
 5. Website Security	
- SSL/HTTPS connection was checked by looking at CAPTCHA. 
+Check SSL/HTTPS connection by  CAPTCHA.
 typing in the correct answer. 
-ensuring the HTTPS connection on site.  
- word and credit card encrypted.
+ensurethe HTTPS connection on site.  
+password and credit card encrypted.
 
 
 
 6. Mobile Responsiveness	
- Mobile-Friendly Test was used on several android phones. 
- Mobile Responsiveness on the Verizon site was tested for layout
+ Mobile-Friendly Test was used on android phones. 
+ Mobile Responsiveness  was tested for layout
 
 
 7.  Accessibility	
