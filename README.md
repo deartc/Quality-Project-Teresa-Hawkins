@@ -139,14 +139,19 @@ Note problems.
 
 
 
+
 2. Enter Userid & Password,  
 Enter emails some valid and invalid. 
 Enter passwords some valid and some invalid.
 
 
+
+
 3. Cookie Testing	
 Using Chrome Cookie Managers test with cookies disabled.  
  Using Chrome Cookie Manager test with cookies enabled.
+ 
+ 
 
 
 4. Link Testing	 
@@ -154,6 +159,8 @@ On Google Analytics account click on behavior tab.
 Select “site content. 
 Press apply. 
 Check  broken links
+
+
 
 
 5. Website Security	
@@ -164,9 +171,13 @@ password and credit card encrypted.
 
 
 
+
+
 6. Mobile Responsiveness	
  Mobile-Friendly Test  on android phones. 
  Mobile Responsiveness tested for layout
+ 
+ 
 
 
 7.  Accessibility	
@@ -177,22 +188,30 @@ checked for color contrast.
 checked for font size. 
 
 
+
+
 8. Functionality Testing
 test for dropdowns.  
  test for buttons.   
  test for process flow.
+ 
+ 
 
 
 9. Payment and Disounts	 
 Enter three major credit cards correctly. 
  enter wrong data into credit card data.
  add valid promo codes.  
+ 
+ 
 
 
 10.  UI Testing. 
 the design was analyzed to see if it reflected overall vision.
 the screen resolution should be clear enough for all viewers. 
-several browsers were tested: Chrome, Explorer, Safari, and Firefox.   
+several browsers were tested: Chrome, Explorer, Safari, and Firefox.  
+
+
 
 
 
