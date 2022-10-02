@@ -128,9 +128,117 @@ Summary Log (page 1)
 
 
                                                    # 2A.  TEST EXECUTION (Page Two)
+						   
+						   
 
 STEP LOG
-Test 	Steps 
+Test 	Steps
+
+
+
+HTML Validation 
+
+Validate extension for Chrome. 
+
+Navigate to http://verizon.com 
+
+Note problems. 
+
+ 
+
+Form Input 
+
+Enter Userid & Password, 
+Enter emails some valid and invalid.  
+
+Enter passwords some valid and some invalid. 
+
+ 
+
+ 
+
+Cookie Testing  
+
+Using Chrome Cookie Managers test with cookies disabled. 
+Using Chrome Cookie Manager test with cookies enabled. 
+
+ 
+
+Link Testing 
+
+ On Google Analytics account click on behavior tab. 
+Select “site content. 
+
+ Press apply. 
+
+Check broken links. 
+
+ 
+
+Website Security Check 
+
+ SSL/HTTPS connection by CAPTCHA.  
+
+typing in the correct answer.  
+
+ensure the HTTPS connection on site. 
+password and credit card encrypted. 
+
+ 
+
+Mobile Responsiveness 
+
+ Mobile-Friendly Test on android phones.  
+
+Mobile Responsiveness tested for layout 
+
+ 
+
+ 
+
+Accessibility 
+
+ test for identified images. 
+
+ check correct heading levels  
+
+check for color contrast.  
+
+check for font size. 
+
+check for clear page titles 
+
+ 
+
+Functionality Testing  
+
+test for dropdowns. 
+
+test for buttons. 
+
+test for process flow. 
+
+ 
+
+Payment and Discounts  
+
+Enter three major credit cards correctly. 
+
+ enter wrong data into credit card data.  
+
+ add valid promo codes. 
+
+ 
+
+UI Testing.  
+
+the design was analyzed to see if it reflected overall vision.  
+
+the screen resolution should be clear enough for all viewers.  
+
+several browsers were tested: Chrome, Explorer, Safari, and Firefox. 
+
+ 
 	
 1. Navigate to http://verizon.com	 
 Check  HTML Validator extension for Chrome.  
