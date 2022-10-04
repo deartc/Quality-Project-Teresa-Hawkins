@@ -127,7 +127,7 @@ Summary Log (page 1)
 
 
 
-                                                   # 2A.  TEST EXECUTION (Page Two)
+                                                   # 2A.TEST EXECUTION (Page Two)
 						   
 						   
 
@@ -136,98 +136,14 @@ Test 	Steps
 
 
 
+
 1. HTML Validation 
 
-	Validate extension for Chrome. 
-	Navigate to http://verizon.com 
-	Note problems. 
-
+o	Validate extension for Chrome
  
-
-2. Form Input 
-
-	Enter Userid & Password,
-	Enter emails some valid and invalid
-	Enter passwords some valid and some invalid. 
-
- 
-
- 
-
-3. Cookie Test
-	Using Chrome Cookie Managers test with cookies disabled. 
-	Using Chrome Cookie Manager test with cookies enabled. 
-
- 
-
-4. Link Testing 
-	 Click on Google Analytics account
-	click on behavior tab. 
-	Select “site content.
-	Press apply. 
-	Check broken links. 
-
- 
-
-5. Website Security Check 
-
- SSL/HTTPS connection by CAPTCHA.  
-	typing in the correct answer.  
-	ensure the HTTPS connection on site. 
-	password and credit card encrypted. 
-
- 
-
-
-6. Mobile Responsiveness 
-	 Mobile-Friendly Test on android phones.  
-	Mobile Responsiveness tested for layout 
-
- 
-
- 
-
-7. Accessibility 
-	test for identified images. 
-	check correct heading levels  
-	check for color contrast.  		
-	check for font size. 
-	check for clear page titles 
-
- 
-
-
-8. Functionality Testing  
-	test for dropdowns. 
-	test for buttons. 
-	test for process flow. 
-
- 
-
-9. Payment and Discounts  
-
-	Enter three major credit cards correctly. 
-
- 	enter wrong data into credit card data.  
-
- 	add valid promo codes. 
-
- 
-
-10.UI Testing.  
-
-	analyze site for overall vision.  
-	the screen resolution should be clear enough for all viewers.  
-	several browsers were tested: Chrome, Explorer, Safari, and Firefox. 
-	
-	
-	
-	
-	
-	1. HTML Validation 
-
-o	Validate extension for Chrome. 
 o	Navigate to http://verizon.com 
+
+
 o	Note problems. 
 
 
@@ -267,8 +183,9 @@ o	password and credit card encrypted.
 
 
 6. Mobile Responsiveness 
-	 Mobile-Friendly Test on android phones.  
-	Mobile Responsiveness tested for layout 
+o	Mobile-Friendly Test on android phones.  
+o	Mobile Responsiveness tested for layout 
+
 
  
 
@@ -288,7 +205,6 @@ o	check for clear page titles
 o	test for dropdowns. 
 
 o	test for buttons.
-
  
 o	test for process flow. 
 
@@ -296,7 +212,6 @@ o	test for process flow.
  
 
 9. Payment and Discounts  
-
 o	enter three major credit cards correctly. 
 
 o	enter wrong data into credit card data.  
@@ -312,6 +227,7 @@ o	analyze site for overall vision.
 o	check  screen resolution 
 
 o	test several browsers 
+
 
 	
 	
