@@ -219,6 +219,104 @@ Test 	Steps
 	analyze site for overall vision.  
 	the screen resolution should be clear enough for all viewers.  
 	several browsers were tested: Chrome, Explorer, Safari, and Firefox. 
+	
+	
+	
+	
+	
+	1. HTML Validation 
+
+o	Validate extension for Chrome. 
+o	Navigate to http://verizon.com 
+o	Note problems. 
+
+
+
+2. Form Input 
+
+o	Enter Userid & Password,
+o	Enter emails some valid and invalid
+o	Enter passwords some valid and some invalid. 
+
+ 
+
+ 
+
+3. Cookie Test
+o	Using Chrome Cookie Managers test with cookies disabled. 
+o	Using Chrome Cookie Manager test with cookies enabled. 
+
+ 
+
+4. Link Testing 
+o	Click on Google Analytics account
+o	click on behavior tab. 
+o	Select “site content.
+o	Press apply. 
+o	Check broken links. 
+
+ 
+
+5. Website Security.  
+o	SSL/HTTPS connection by CAPTCHA
+o	typing in the correct answer.  
+o	ensure the HTTPS connection on site. 
+o	password and credit card encrypted. 
+
+ 
+
+
+6. Mobile Responsiveness 
+	 Mobile-Friendly Test on android phones.  
+	Mobile Responsiveness tested for layout 
+
+ 
+
+ 
+
+7. Accessibility 
+o	test for identified images. 
+o	check correct heading levels  
+o	check for color contrast.  		
+o	check for font size. 
+o	check for clear page titles 
+
+ 
+
+
+8. Functionality Testing  
+o	test for dropdowns. 
+
+o	test for buttons.
+
+ 
+o	test for process flow. 
+
+
+ 
+
+9. Payment and Discounts  
+
+o	enter three major credit cards correctly. 
+
+o	enter wrong data into credit card data.  
+
+o	add valid promo codes. 
+
+
+
+10.UI Testing.  
+
+o	analyze site for overall vision.
+
+o	check  screen resolution 
+
+o	test several browsers 
+
+	
+	
+	
+	
 
 SWAY TEST LOG:
 https://sway.office.com/y1dCb4mJlBMo9KyO?ref=Link&loc=play
