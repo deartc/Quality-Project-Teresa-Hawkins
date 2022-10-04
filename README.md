@@ -161,6 +161,7 @@ o	Enter passwords some valid and some invalid.
  
 
 3. Cookie Test
+
 o	Using Chrome Cookie Managers test with cookies disabled. 
 
 o	Using Chrome Cookie Manager test with cookies enabled. 
@@ -168,6 +169,7 @@ o	Using Chrome Cookie Manager test with cookies enabled.
  
 
 4. Link Testing 
+
 o	Click on Google Analytics account.
 
 o	click on behavior tab. 
