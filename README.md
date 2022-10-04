@@ -180,7 +180,8 @@ o	Check broken links.
 
  
 
-5. Website Security.  
+5. Website Security
+
 o	SSL/HTTPS connection by CAPTCHA.
 
 o	typing in the correct answer. 
@@ -192,17 +193,18 @@ o	password and credit card encrypted.
  
 
 
-6. Mobile Responsiveness 
-o	Mobile-Friendly Test on android phones. 
+6. Mobile Responsiveness   
 
-o	Mobile Responsiveness tested for layout 
+o	Mobile Responsiveness tested for layout
+o        Mobile-Friendly Test on android phones
 
-
- 
 
  
 
-7. Accessibility 
+ 
+
+7. Accessibility
+ 
 o	test for identified images.
 
 o	check correct heading levels.
@@ -216,7 +218,8 @@ o	check for clear page titles.
  
 
 
-8. Functionality Testing  
+8. Functionality Testing
+  
 o	test for dropdowns. 
 
 o	test for buttons.
@@ -226,7 +229,8 @@ o	test for process flow.
 
  
 
-9. Payment and Discounts  
+9. Payment and Discounts 
+ 
 o	enter three major credit cards correctly. 
 
 o	enter wrong data into credit card data.  
