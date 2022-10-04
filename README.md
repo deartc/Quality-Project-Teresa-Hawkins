@@ -150,8 +150,10 @@ o	Note problems.
 
 2. Form Input 
 
-o	Enter Userid & Password,
+o	Enter Userid & Password.
+
 o	Enter emails some valid and invalid
+
 o	Enter passwords some valid and some invalid. 
 
  
@@ -160,6 +162,7 @@ o	Enter passwords some valid and some invalid.
 
 3. Cookie Test
 o	Using Chrome Cookie Managers test with cookies disabled. 
+
 o	Using Chrome Cookie Manager test with cookies enabled. 
 
  
