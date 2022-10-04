@@ -168,25 +168,33 @@ o	Using Chrome Cookie Manager test with cookies enabled.
  
 
 4. Link Testing 
-o	Click on Google Analytics account
+o	Click on Google Analytics account.
+
 o	click on behavior tab. 
+
 o	Select “site content.
+
 o	Press apply. 
+
 o	Check broken links. 
 
  
 
 5. Website Security.  
-o	SSL/HTTPS connection by CAPTCHA
-o	typing in the correct answer.  
-o	ensure the HTTPS connection on site. 
+o	SSL/HTTPS connection by CAPTCHA.
+
+o	typing in the correct answer. 
+
+o	ensure the HTTPS connection on site
+. 
 o	password and credit card encrypted. 
 
  
 
 
 6. Mobile Responsiveness 
-o	Mobile-Friendly Test on android phones.  
+o	Mobile-Friendly Test on android phones. 
+
 o	Mobile Responsiveness tested for layout 
 
 
@@ -195,11 +203,15 @@ o	Mobile Responsiveness tested for layout
  
 
 7. Accessibility 
-o	test for identified images. 
-o	check correct heading levels  
-o	check for color contrast.  		
+o	test for identified images.
+
+o	check correct heading levels.
+
+o	check for color contrast. 
+
 o	check for font size. 
-o	check for clear page titles 
+
+o	check for clear page titles. 
 
  
 
