@@ -195,15 +195,13 @@ o	password and credit card encrypted.
  
 
 
-6. Mobile Responsiveness   
+6. Mobile Responsiveness
 
 o	Mobile Responsiveness tested for layout
-o        Mobile-Friendly Test on android phones
+
+o        Mobile-Friendly Test on android phones   
 
 
- 
-
- 
 
 7. Accessibility
  
