@@ -239,7 +239,7 @@ o	add valid promo codes.
 
 
 
-10.UI Testing.  
+10.  UI Testing.  
 
 o	analyze site for overall vision.
 
