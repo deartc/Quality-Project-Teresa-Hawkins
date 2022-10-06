@@ -36,20 +36,20 @@ a. Preconditions- Chrome Cookie Manager was installed to test for cookies’ sec
  b. Steps- Step one, using Chrome Cookie Manager the site was tested with cookies disabled.  Step two, using Chrome Cookie Manager the site was tested with cookies enabled. 
 c.Expected results- Cookies was tested with cookies disabled and cookies enabled, and Chrome Cookie  Manager did not generate major error.  
  
-4.  Link Testing- To test for Verizon broken links, check to see if there were broken links. Links were also tested for proper page. 
+4.  Link Testing- To test for Verizon broken links, check to see if there were broken links. Links were also tested for the proper page. 
   a. Preconditions- In this test, I used Google Analytics to see if there were broken links.  The time limit was ten minutes.  
-  b. Steps-   On Google Analytics account click on behavior tab.  Then select “site content.  Several key links for proper page. bad links.
+  b. Steps-   On Google Analytics account click on behavior tab.  Then select “site content.  Several key links for the  proper page. Then check for bad links.
   c. Expected results- Verizon key links go to the proper page and there were no broken links.
   
   5. Website Security (Black box Testing)- Verizon’s SSL/HTTPS connection was tested to make sure it's working properly.  
- a. Preconditions- Verizon’s SSL/HTTPS connection was checked ensuring that the HTTPS connection was present. The time limit was ten minutes. The password should be   in encrypted format.  It should not allow invalid users. 
-  b. Steps- Verizon’s SSL/HTTPS connection was checked by looking at CAPTCHA. Step one is typing in the correct answer. Step two is ensuring the HTTPS connection on    site. Step three is  ensure that password  and credit  card encrypted.
-  c. Expected results-The CAPTCHA was checked for proper functioning and it worked. The password and credit card was was in encrypted format   
+ a. Preconditions- Verizon’s SSL/HTTPS connection was checked ensuring that the HTTPS connection was present. The time limit was ten minutes. The password should be  in encrypted format.  It should not allow invalid users. 
+  b. Steps- Verizon’s SSL/HTTPS connection was checked by looking at CAPTCHA. Step one is typing in the correct answer. Step two is ensuring the HTTPS connection on site. Step three is to ensure that password  and credit card are encrypted.
+  c. Expected results-The CAPTCHA was checked for proper functioning and it worked. The password and credit card was in encrypted format   
   
   6. Mobile Responsiveness Verizon site was tested using Google's Mobile-Friendly Test. 
  a. Preconditions- Mobile Responsiveness Verizon site was tested using Google's Mobile-Friendly Test on several mobile devices.  The test limit was ten minutes.
-  b. Steps-   Step one was Google’s Mobile-Friendly Test was used on several android  phones.  Step two was Mobile Responsiveness on the Verizon site
-  was tested to see if the layout was presentable.  
+  b. Steps-  Step one was Google’s Mobile-Friendly Test was used on several android  phones.  Step two was Mobile Responsiveness on the Verizon site.
+  Step three was the general layout and was tested to see if the layout was presentable.  
   c. Expected results- Mobile Responsiveness testing on the Verizon site indicated the layout was up to standards and the links worked.
   
   7. Accessibility on the Verizon site was tested against the Web Content Accessibility Guidelines (WCAG).   
@@ -59,18 +59,18 @@ c.Expected results- Cookies was tested with cookies disabled and cookies enabled
   
   8.  Functionality Testing.  Verizon functionality testing was performed, and the following were tested: drop-downs, buttons, and process flow.
   a. Preconditions- The preconditions for the Verizon functionality testing were to identify the dropdowns, buttons, and process flow. Ten  minutes was limit.
-  b. Steps- Verizon functionality testing was performed, and the following steps were done.  Step one, test for dropdowns.   Step two test for buttons.   Step three   test for process flow. 
+  b. Steps- Verizon functionality testing was performed, and the following steps were done.  Step one, test for dropdowns.   Step two test for buttons.   Step three was to test for process flow. 
   c. Expected results- Verizon functionality passed the following tests: drop-downs, buttons, and process flow. 
  
 9.  Payment and promo code. Payment and promo code on Verizon were tested to make sure they're working.
 a. Preconditions- The preconditions of the payment and valid promo code were tested was to identify the payment accepted and discount applied. The time limit was ten minutes.
   b. Steps -The first step was to acurately enter three major credit cards.  The second step was to enter wrong data into credit card data. The third step is to add valid promo codes.  
-  c. Expected results- The expected results of the payment gateways testing is that it passed but the code didn’t allow for the discount, so I generated a bug report and included it).
+  c. Expected results- The expected results of the payment gateways testing is that it passed but the code didn’t allow for the discount, so I generated a bug report and included it.
  
 10. UI Testing. UI testing on the Verizon site included checking design consistency, screen resolutions and browsers.
 a. Preconditions- The preconditions of UI testing are setting a minimum standard for design consistency, screen resolutions, and browsers.  I set a ten-minute limit to test these components.  
-  b. Steps- UI testing on the Verizon site included checking design consistency, screen resolutions and browsers. The three components were broken down and analyzed.   Step one, the design was analyzed to see if it reflected Verizon’s overall vision, design color and logo.  Step two, the screen resolution should be clear enough for all viewers. Step three, several browsers were tested: Chrome, Explorer, Safari, and Firefox.   
-  c. Expected results- The UI testing on the Verizon site passed in relation to   design consistency, screen resolutions and browsers.
+  b. Steps- UI testing on the Verizon site included checking design consistency, screen resolutions and browsers. The three components were broken down and analyzed. Step one, the design was analyzed to see if it reflected Verizon’s overall vision, design color and logo.  Step two, the screen resolution should be clear enough for all viewers. Step three, several browsers were tested: Chrome, Explorer, Safari, and Firefox.   
+  c. Expected results- The UI testing on the Verizon site passed in relation to  design consistency, screen resolutions and browsers.
   
  
  SWAY PRESENTATION:   https://sway.office.com/lWoyBpPeNBiP3C2Y
@@ -152,7 +152,7 @@ o	Note problems.
 
 o	Enter Userid & Password.
 
-o	Enter emails some valid and invalid
+o	Enter emails some valid and invalid.
 
 o	Enter passwords some valid and some invalid. 
 
@@ -172,7 +172,7 @@ o	Using Chrome Cookie Manager test with cookies enabled.
 
 o	Click on Google Analytics account.
 
-o	click on behavior tab. 
+o	Click on behavior tab. 
 
 o	Select “site content.
 
@@ -186,66 +186,66 @@ o	Check broken links.
 
 o	SSL/HTTPS connection by CAPTCHA.
 
-o	typing in the correct answer. 
+o	Type in the correct answer. 
 
-o	ensure the HTTPS connection on site
+o	Esure the HTTPS connection on site.
 . 
-o	password and credit card encrypted. 
+o	Password and credit card encrypted. 
 
  
 
 
 6. Mobile Responsiveness
 
-o	Mobile Responsiveness tested for layout
+o	Mobile Responsiveness tested for layout.
 
-o        Mobile-Friendly Test on android phones   
+o       Mobile-Friendly Test on android phones.  
 
 
 
 7. Accessibility
  
-o	test for identified images.
+o	Test for identified images.
 
-o	check correct heading levels.
+o	Check correct heading levels.
 
-o	check for color contrast. 
+o	Check for color contrast. 
 
-o	check for font size. 
+o	Check for font size. 
 
-o	check for clear page titles. 
+o	Check for clear page titles. 
 
  
 
 
 8. Functionality Testing
   
-o	test for dropdowns. 
+o	Rest for dropdowns. 
 
-o	test for buttons.
+o	Test for buttons.
  
-o	test for process flow. 
+o	Test for process flow. 
 
 
  
 
 9. Payment and Discounts 
  
-o	enter three major credit cards correctly. 
+o	Enter three major credit cards correctly. 
 
-o	enter wrong data into credit card data.  
+o	Enter wrong data into credit card data.  
 
-o	add valid promo codes. 
+o	Add valid promo codes. 
 
 
 
 10.  UI Testing.  
 
-o	analyze site for overall vision.
+o	Analyze site for overall vision.
 
-o	check  screen resolution 
+o	Check  screen resolution 
 
-o	test several browsers 
+o	Test several browsers 
 
 
 	
