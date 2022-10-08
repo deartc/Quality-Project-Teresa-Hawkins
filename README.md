@@ -230,11 +230,11 @@ o	Test for process flow.
 
  
 
-9. Payment and Discounts 
+9. Payment and Discounts (at checkout) 
  
 o	Enter three major credit cards correctly. 
 
-o	Enter wrong data into credit card data.  
+o	Enter wrong data into credit card data.
 
 o	Add valid promo codes. 
 
