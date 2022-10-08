@@ -328,7 +328,8 @@ To run the project do the following: Clone github.com/deartc/Quality-Project-Ter
 Requirements of classes completion: 
 1. On the Vehicle class, add unit tests  and refactor where necessary.
 2. On the SemiTruck class,  implement all methods and write unit tests. 
-3. Add 3rd class, Car, implement it, and add unit tests for it. (Started but did not include git hub link) 
+3. Add 3rd class, Car, implement it, and add unit tests for it.
+4. Cargo class(Started but did not include git hub link) 
 
 
 
