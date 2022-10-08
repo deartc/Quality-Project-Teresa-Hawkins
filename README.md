@@ -20,21 +20,22 @@ Exclusions:   The testing was restricted to this major feature, and I did not in
  
 1. HTML/CSS Validation 
 Verizon was validated by entering its URL and checked by the HTML Validator extension for Chrome. 
-a. Preconditions- The time limit was ten minutes. The precondition for HTML/CSS Validation is that I used the URL listed as the official Verizon HTML.
-b. Steps- Step one is the HTML/CSS Validation was checked by the HTML Validator extension for Chrome.  Step two, it noted if there were any problems.  Step three, the possible problems would be noted.   
-c. Expected results-The expected results for HTML/CSS Validation is that it passed.  I had no problems navigating.
+ a. Preconditions- The time limit was ten minutes. The precondition for HTML/CSS Validation is that I used the URL listed as the official Verizon HTML.
+ b. Steps- Step one is the HTML/CSS Validation was checked by the HTML Validator extension for Chrome.  Step two, it noted if there were any problems.  
+   Step three, the possible problems would be noted.   
+ c. Expected results-The expected results for HTML/CSS Validation is that it passed.  I had no problems navigating.
   
 2. Form Input and Validation (Black Box Testing) 
   Verizon site was checked for data input validity and what happens when there are invalid inputs. 
-  a. Preconditions- The time limit was ten minutes. The email must be valid form.  The password must fit the criteria (upper case, lower case, number, special character, and minimum characters.   
+  a. Preconditions- The time limit was ten minutes. The email must be valid form.  The password must fit the criteria (upper case, lower case, number, special     character, and minimum characters.   
  b. Steps- I inputted several emails some valid and invalid.    I inputted several passwords some valid and some invalid. 
  c. Expected results- The valid email and passwords passed.   The invalid email and passwords failed.
  
            
 3. Cookie Testing   Cookies was tested with cookies disabled and cookies enabled.   Chrome Cookie Manager was used for cookies’ security issues
-a. Preconditions- Chrome Cookie Manager was installed to test for cookies’ security issues. The time limit was ten minutes.  
+ a. Preconditions- Chrome Cookie Manager was installed to test for cookies’ security issues. The time limit was ten minutes.  
  b. Steps- Step one, using Chrome Cookie Manager the site was tested with cookies disabled.  Step two, using Chrome Cookie Manager the site was tested with cookies enabled. 
-c.Expected results- Cookies was tested with cookies disabled and cookies enabled, and Chrome Cookie  Manager did not generate major error.  
+ c.Expected results- Cookies was tested with cookies disabled and cookies enabled, and Chrome Cookie  Manager did not generate major error.  
  
 4.  Link Testing- To test for Verizon broken links, check to see if there were broken links. Links were also tested for the proper page. 
   a. Preconditions- In this test, I used Google Analytics to see if there were broken links.  The time limit was ten minutes.  
@@ -47,14 +48,14 @@ c.Expected results- Cookies was tested with cookies disabled and cookies enabled
   c. Expected results-The CAPTCHA was checked for proper functioning and it worked. The password and credit card was in encrypted format   
   
   6. Mobile Responsiveness Verizon site was tested using Google's Mobile-Friendly Test. 
- a. Preconditions- Mobile Responsiveness Verizon site was tested using Google's Mobile-Friendly Test on several mobile devices.  The test limit was ten minutes.
+  a. Preconditions- Mobile Responsiveness Verizon site was tested using Google's Mobile-Friendly Test on several mobile devices.  The test limit was ten minutes.
   b. Steps-  Step one was Google’s Mobile-Friendly Test was used on several android  phones.  Step two was Mobile Responsiveness on the Verizon site.
   Step three was the general layout and was tested to see if the layout was presentable.  
   c. Expected results- Mobile Responsiveness testing on the Verizon site indicated the layout was up to standards and the links worked.
   
   7. Accessibility on the Verizon site was tested against the Web Content Accessibility Guidelines (WCAG).   
    a. Preconditions- WCAG list of web accessibility evaluation tools were used to test Verizon site. The time limit was ten minutes. 
-  b. Steps- Accessibility on the Verizon site was tested against the Web Content Accessibility Guidelines (WCAG). Step one, I checked for clear page titles.   Step   two, I tested for identified images that met guidelines.  Step three, I checked to see if heading levels were correct. Step four, I checked for font size.   Step   five, I checked for color contrast.  
+   b. Steps- Accessibility on the Verizon site was tested against the Web Content Accessibility Guidelines (WCAG). Step one, I checked for clear page titles.   Step   two, I tested for identified images that met guidelines.  Step three, I checked to see if heading levels were correct. Step four, I checked for font size.   Step   five, I checked for color contrast.  
   c. Expected results- Accessibility testing on the Verizon site against the Web Content Accessibility Guidelines (WCAG) passed.
   
   8.  Functionality Testing.  Verizon functionality testing was performed, and the following were tested: drop-downs, buttons, and process flow.
@@ -321,7 +322,7 @@ Status: Supervison fixed on 9/27 at 6:15 p.m.  EST
 	    
 	    
    
-To run the project do the following: Clone github.com/deartc/Quality-Project-Teresa-Hawkins. (Any other instructions I need to include goes here). The extensions used were C# and Net.  The NuGets used were xunit and others.  
+To run the project do the following: Clone github.com/deartc/Quality-Project-Teresa-Hawkins. The extensions used were C# and Net.  The NuGets used were xunit.  
 
 
 Requirements of classes completion: 
@@ -335,6 +336,7 @@ Requirements of classes completion:
 Unit tests requirements:
 1.	parameterless constructor -object of type Vehicle, 
 2.	Vehicle, -public properties to the provided values.
+
 3.	 parameterless AddGas method fills the gas tank to 100% of its capacity
 4.	 AddGas method with a parameter adds the supplied amount of gas to the gas tank.
 5.	AddGas GasOverfillException – how much add and what the capacity was.
@@ -344,10 +346,12 @@ Unit tests requirements:
 9.	Drive the car 10 miles. GasLevel MilesRemaining mileage correct.
 10.	Drive the car 100 miles. GasLevel MilesRemaining mileage correct.
 11.	Out of gas. GasLevel MilesRemaining mileage correct.
+
 12.	ChangeTireAsync will throw a NoTireToChangeException 
 13.	ChangeTireAsync can successfully be used to change a flat tire
 14.	 GotFlatTire method Refactor GotFlatTire can be both true and false. 
 15.	 SemiTruck object which is also a Vehicle and has 18 wheels. 
+
 16.	Cargo property -CargoItems which is empty, but not null.
 17.	LoadCargo: correctly adds the passed object to the Cargo.
 18.	UnloadCargo Positive Test: remove  from the Cargo and return cargo 
@@ -357,13 +361,14 @@ Unit tests requirements:
 22.	GetCargoItemsByPartialDescription Positive Test: contain that Description.
 23.	GetCargoItemsByPartialDescription Negative Test does not exist returns an empty list.
 24.	GetTotalNumberOfItems: sum of all quantities of all items in the Cargo List.
+
 25.	Car instances are also Vehicles and have 4 tires.
 26.	IsValidModelForMakeAsync test: 
 27.	WasModelMadeInYearAsync Negative Test: before 1995 System.ArgumentException.
 28.	WasModelMadeInYearAsync Positive Tests:  Make that does not exist at all returns false
 29.	Make Honda, Model Camry returns false (regardless of year).
 30.	Make Subaru, Model WRX returns true for year 2020.
-31.	Make Subaru, Model WRX returns false for year 2000.
+31.	Make Subaru, Model WRX returns false for year 2000.		
 32.	AddPassengers test: reduces the fuel economy of the car by .2 per passenger.
 33.	RemovePassengers test:  Car with 5 passengers that gets 21 MPG.
 34.	RemovePassengers  2 passengers and gets 20.6 MPG.
