@@ -240,7 +240,7 @@ o	Add valid promo codes.
 
 
 
-10.  UI Testing.  
+10.  UI Testing
 
 o	Analyze site for overall vision.
 
