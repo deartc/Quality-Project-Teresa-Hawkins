@@ -409,11 +409,6 @@ Unit tests requirements:
 
 
 
-37.	Methods-  vehicle
-38.	 Methods- semitruck
-39.	Method- car
-40 Class/Method  Cargo
-
 
 
 
