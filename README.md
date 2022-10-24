@@ -322,8 +322,8 @@ Status: Supervison fixed on 9/27 at 6:15 p.m.  EST
 	    
 	    
 The Unit Test Project was done on different repository for clarification on code language C# for  employment opportunities.    
-To run the project do the following: Clone . The extensions used were C# and Net.  The NuGets used were xunit.  
-
+To run the project do the following: Clone https://github.com/deartc/QualityAssuranceCSharp . The extensions used were C# and Net.  The NuGets used were xunit.  
+(note: most of my code was "toy code" done earlier in class to help reinforce concepts and it was placed to show clarification of what I need to do.  I need to comment out later.   
 
 Requirements of classes completion: 
 1. On the Vehicle class, add unit tests  and refactor where necessary.
