@@ -321,8 +321,8 @@ Status: Supervison fixed on 9/27 at 6:15 p.m.  EST
             #3.  UNIT TEST PROJECT:
 	    
 	    
-   
-To run the project do the following: Clone github.com/deartc/Quality-Project-Teresa-Hawkins. The extensions used were C# and Net.  The NuGets used were xunit.  
+The Unit Test Project was done on different repository for clarification on code language C# for  employment opportunities.    
+To run the project do the following: Clone . The extensions used were C# and Net.  The NuGets used were xunit.  
 
 
 Requirements of classes completion: 
