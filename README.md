@@ -71,7 +71,7 @@ a. Preconditions- The preconditions of the payment and valid promo code were tes
 10. UI Testing. UI testing on the Verizon site included checking design consistency, screen resolutions and browsers.
 a. Preconditions- The preconditions of UI testing are setting a minimum standard for design consistency, screen resolutions, and browsers.  I set a ten-minute limit to test these components.  
   b. Steps- UI testing on the Verizon site included checking design consistency, screen resolutions and browsers. The three components were broken down and analyzed. Step one, the design was analyzed to see if it reflected Verizon’s overall vision, design color and logo.  Step two, the screen resolution should be clear enough for all viewers. Step three, several browsers were tested: Chrome, Explorer, Safari, and Firefox.   
-  c. Expected results- The UI testing on the Verizon site passed in relation to  design consistency, screen resolutions and browsers.
+  c. Expected results- The UI testing on the Verizon site passed in relation to  design consistency, screen resolutions and browser.
   
  
  SWAY PRESENTATION:   https://sway.office.com/lWoyBpPeNBiP3C2Y
