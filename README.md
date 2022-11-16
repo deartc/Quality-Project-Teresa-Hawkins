@@ -14,7 +14,7 @@ Verizon is an Internet, phone, and TV provider that has one of the best retentio
  
 Scope: 
  
-Inclusions: The testing primarily dealt with the checkout process.  I identified ten tests I performed on the websites which falls into one of these major categories: critical path, regression, non-functional. l included all the necessary components of each test case (preconditions, steps, and expected results.) In each test the time limit was ten minutes.
+Inclusions: The testing primarily dealt with the checkout process.  I identified ten tests I performed on the websites which falls into one of these major categories: critical path, regression, non-functional. l included all the necessary components of each test case (preconditions, steps, and expected results.) In each test the time limit was ten minutes or less.
 
 Exclusions:   The testing was restricted to this major feature, and I did not include more than ten tests, although other tests could have been performed. The time limit was set by project.
  
